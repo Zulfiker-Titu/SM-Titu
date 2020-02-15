@@ -661,8 +661,8 @@ http://playhls.media.nic.in/live/vyas/index.m3u8
 https://streamer-1.toffeelive.com/live/wion_tv_720/index.m3u8
 #EXTINF:-1,FOX Life
 https://liveanevia.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
-#EXTINF:-1,History
-http://185.180.12.90:8080/HISTORY/index.m3u8?token=test
+#EXTINF:-1,History TV HD
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:-1,History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/03.m3u8
 #EXTINF:-1,VoA TV
