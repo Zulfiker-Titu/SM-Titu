@@ -256,7 +256,7 @@ http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Sony Yay
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 #EXTINF:-1,Disney XD
-https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
+http://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1,Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/index.m3u8
 #EXTINF:-1,ANIMAX
@@ -339,10 +339,14 @@ http://43.231.22.238:8081/temp1/ctg_ptvsports/playlist.m3u8
 http://51.158.144.124:8090/CR/1/index.m3u8
 #EXTINF:-1,GEO Super
 http://43.231.22.238:8081/temp1/ctg_geosuper/playlist.m3u8
+#EXTINF:-1,Sky Net Sports 1
+https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+#EXTINF:-1,Sky Net Sports 4
+http://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
 #EXTINF:-1,Sky Net Sports 5
-https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
+http://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 #EXTINF:-1,Sky Net Sports 6
-https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
+http://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1,Sky Sports Cricket
 http://43.231.22.238:8081/temp1/ctg_skycricket/playlist.m3u8
 #EXTINF:-1,Sky Sports Football
@@ -368,9 +372,9 @@ http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ART Sports 3
 http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
 #EXTINF:-1,true premier football 1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+http://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,true premier football 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+http://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1,rm tv
@@ -384,7 +388,7 @@ https://1610186124.rsc.cdn77.org/1610186124/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
 #EXTINF:-1,NBA HD
-https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+http://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1,Sports Kool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #EXTINF:-1,DD Sports
@@ -396,7 +400,7 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1,Super Sports 8
 http://51.158.144.124:8090/CR/5/index.m3u8
 #EXTINF:-1,Fox Sports
-https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+http://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1,ATS Sports
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1,Willow
@@ -480,7 +484,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO
 http://103.58.73.26/streams/1011/index.m3u8
 #EXTINF:-1,HBO (Thai)
-https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+http://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,HBO HiTS
 https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 #EXTINF:-1,HBO Signature
