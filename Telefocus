@@ -340,7 +340,7 @@ http://51.158.144.124:8090/CR/1/index.m3u8
 #EXTINF:-1,GEO Super
 http://43.231.22.238:8081/temp1/ctg_geosuper/playlist.m3u8
 #EXTINF:-1,Sky Net Sports 1
-https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
+http://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1,Sky Net Sports 4
 http://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
 #EXTINF:-1,Sky Net Sports 5
@@ -407,10 +407,6 @@ http://212.47.252.54/hls/stream.m3u8
 http://51.158.144.124:8090/CR/7/index.m3u8
 #EXTINF:-1,KiX
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX.m3u8
-#EXTINF:-1,RTK 1 HD
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1,RTK 2 HD
-http://stream2.rtkit.com:1935/rtk2stream/rtk2.stream/playlist.m3u8
 #EXTINF:-1,Fox News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
 #EXTINF:-1,The Weather Channel
@@ -483,12 +479,14 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO
 http://103.58.73.26/streams/1011/index.m3u8
-#EXTINF:-1,HBO (Thai)
+#EXTINF:-1,HBO (Indonesia)
 http://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,HBO HiTS
 https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 #EXTINF:-1,HBO Signature
 https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
+#EXTINF:-1,WB TV
+http://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1,MBC MAX HD
 http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1,MBC 2 HD
@@ -513,6 +511,10 @@ https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.
 https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
+#EXTINF:-1,Fox Action HD
+http://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
+#EXTINF:-1,Fox Family HD
+http://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
 #EXTINF:-1,Fox Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1,FX
