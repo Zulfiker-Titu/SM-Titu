@@ -246,7 +246,7 @@ http://139.59.13.228:8081/live/stream/playlist.m3u8
 #EXTINF:-1,Nick JR
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 #EXTINF:-1,Nickelodeon
-http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+https://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1,Sky Disney
 http://95.170.215.118/hls/m3u8/Sky-MoviesDisney.m3u8
 #EXTINF:-1,ABC Kids
