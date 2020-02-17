@@ -397,8 +397,12 @@ http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 http://51.158.144.124:8090/CR/5/index.m3u8
 #EXTINF:-1,Super Tennies
 http://push12.feber.xyz/hls/channel21hd47/chunks.m3u8
-#EXTINF:-1,Fox Sports
+#EXTINF:-1,Fox Sports 1
 http://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sports 2
+https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
+#EXTINF:-1,Fox Sports 3
+https://anevia115.mncnow.id:443/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
 #EXTINF:-1,ATS Sports
 http://212.47.252.54/hls/stream.m3u8
 #EXTINF:-1,Willow
@@ -523,6 +527,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 http://www.livedoomovie.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1,Fox Family Movies HD
 http://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Movies
+https://anevia115.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
 #EXTINF:-1,Fox Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1,FX
@@ -697,6 +703,8 @@ http://hls-live-media.cdn01.net/default/stream_14949_1.m3u8
 http://stitcher.pluto.tv/stitch/hls/channel/553838c8c0b860c11a631f3a/master.m3u8?deviceType=web&deviceMake=Firefox&deviceModel=Firefox&sid=7caa3c2a-5d15-4c91-b093-7f93176fc22c&deviceId=08d323bf-061e-42cd-8a37-db1664fdefe4&deviceVersion=63.0&appVersion=2.2.1&deviceDNT=0&userId=&advertisingId=&deviceLat=32.0405&deviceLon=-95.5256&app_name=&appName=&appStoreUrl=&serverSideAds=false
 #EXTINF:-1,NASA TV
 http://hls.ums.ustream.tv/playlist/directhls/channel/6540154/playlist.m3u8?sgn=31d0dfb847c358d4cedcd2256dc4e1c42a7f13a7
+#EXTINF:-1,Crime+Investigation
+https://anevia115.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 #EXTINF:-1,Investigation Discovery
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Discovery HD
@@ -714,7 +722,7 @@ http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:-1,TLC HD World
 http://streamidvo.multitvsolution.in/TLCHDHindi-a/playlist.m3u8
 #EXTINF:-1,TLC
-http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+https://anevia115.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
 #EXTINF:-1,Docu Box
 http://livecdnh3.tvanywhere.ae/hls/docubox/index.m3u8
 #EXTINF:-1,Fox
@@ -835,5 +843,7 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
 http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
 #EXTINF:-1,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1,Channel [V]
+https://anevia115.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 #EXTINF:-1,Zeta TV HD
 http://rtl-radio-stream-thron.akamaized.net/live-video/video3/video3/chunklist.m3u8
