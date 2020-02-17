@@ -353,24 +353,6 @@ http://43.231.22.238:8081/temp1/ctg_skyfootball/playlist.m3u8
 https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1.m3u8
 #EXTINF:-1,Bein Sports 2
 https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2.m3u8
-#EXTINF:-1,Bein Sports 3
-http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8
-#EXTINF:-1,Bein Sports 4
-http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8
-#EXTINF:-1,Bein Sports 5
-http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8
-#EXTINF:-1,Bein Sports 6
-http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8
-#EXTINF:-1,Bein Sports 7
-http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8
-#EXTINF:-1,Bein Sports 8
-http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8
-#EXTINF:-1,Bein Sports 9
-http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8
-#EXTINF:-1,Bein Sports 10
-http://51.15.8.16:8081/arbiarb/beinsports10/chunks.m3u8
-#EXTINF:-1,Bein Sports 11
-http://51.15.8.16:8081/arbiarb/beinsports11/chunks.m3u8
 #EXTINF:-1,MNC Sports
 https://anevia115.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1,Dubai Racing
@@ -485,6 +467,8 @@ http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1,Swamiji TV
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/chunklist_w823726530_b1100000.m3u8
+#EXTINF:-1,afn
+https://anevia115.mncnow.id/live/eds/AFC/sa_hls/AFC.m3u8
 #EXTINF:-1,FOOD FOOD
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?e=0&h=c97c566b44b7eaae0f80526ffd838aa1&__nn__=5606168722001&hdnea=1572355800_980c04e0053042ec83efd6f203533916
 #EXTINF:-1,Food Network
