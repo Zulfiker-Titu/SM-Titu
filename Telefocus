@@ -361,6 +361,8 @@ http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640
 http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
 #EXTINF:-1,MNC Sports
 https://anevia115.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
+#EXTINF:-1,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1,Dubai Sports
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
 #EXTINF:-1,ART Sports 1
@@ -393,10 +395,14 @@ https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1,Horizon Sports
 https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
+#EXTINF:-1,Stadium
+https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
 #EXTINF:-1,SPORTSCAST
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1,Super Sports 8
 http://51.158.144.124:8090/CR/5/index.m3u8
+#EXTINF:-1,Super Tennies
+http://push12.feber.xyz/hls/channel21hd47/chunks.m3u8
 #EXTINF:-1,Fox Sports
 http://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
 #EXTINF:-1,ATS Sports
@@ -461,6 +467,8 @@ http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,Hadi TV
 http://38.96.175.40:1935/liveTrans//channel1_190k/chunklist.m3u8
+#EXTNIF:-1,Islam Channel
+http://59299831b66d0.streamlock.net/islam-live/islam.stream/playlist.m3u8
 #EXTINF:-1,Bible Explorations
 http://stream.iphonewebtown.com:1935/bibleexplorations/bexplorationsmobile.stream/playlist.m3u8
 #EXTINF:-1,Swamiji TV
@@ -471,10 +479,14 @@ https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/playlist.m3u8?
 http://ott-cdn.ucom.am/s18/index.m3u8
 #EXTINF:-1,Living Foodz
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.m3u8
-#EXTINF:-1,Zee Living
-https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
 #EXTINF:-1,DABL 
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
+#EXTINF:-1,Zee Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1,Better Life TV
+http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
+#EXTINF:-1,Better Health TV
+http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
 #EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO
@@ -815,8 +827,8 @@ http://live.airteltvplus.com/hls/pmUd_Lcmk_mGiTVry-pY6Q/1568453189/vh1_india_hi/
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1,MTV HiTS
 http://185.176.117.243/live/eds/MTV_Hits/HLS_encr/MTV_Hits.m3u8
-#EXTINF:-1,MTV Love
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-p.m3u8?hd=10&rebase=on
+#EXTINF:-1,MTV Dance
+http://c17166b9.iptvzone.net/iptv/QZ9SNCDE8C7UZ6/558/index.m3u8
 #EXTINF:-1,CMC TV
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/CMC-TV.m3u8
 #EXTINF:-1,First Music
@@ -825,6 +837,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1,Retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+#EXTINF:-1,ROCK TV
+http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
 #EXTINF:-1,m2o
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1,Zeta TV HD
