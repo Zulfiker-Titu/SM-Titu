@@ -246,9 +246,7 @@ http://139.59.13.228:8081/live/stream/playlist.m3u8
 #EXTINF:-1,Nick JR
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 #EXTINF:-1,Nickelodeon
-https://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
-#EXTINF:-1,Sky Disney
-http://95.170.215.118/hls/m3u8/Sky-MoviesDisney.m3u8
+http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
 #EXTINF:-1,ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 #EXTINF:-1,Discovery Kids
@@ -475,6 +473,8 @@ http://ott-cdn.ucom.am/s18/index.m3u8
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.m3u8
 #EXTINF:-1,Zee Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
+#EXTINF:-1,DABL 
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
 #EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO
@@ -527,10 +527,6 @@ https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
 #EXTINF:-1,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1,My Cinema
-http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
-#EXTINF:-1,amc
-http://ott.artmott.com/AMC/tracks-v1a1/mono.m3u8
 #EXTINF:-1,First Movies
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist.m3u8
 #EXTINF:-1,Zee Cafe
@@ -657,8 +653,6 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1,GABRUU TV
 http://104.237.60.234/live/gabruutv.m3u8
-#EXTINF:-1,ÜMID TV
-http://win26.yayin.com.tr/umudtv/smil:umudtv.smil/chunklist.m3u8
 #EXTINF:-1,TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
 #EXTINF:-1,VYAS HIGHER EDUCATION CHANNEL
@@ -719,8 +713,6 @@ http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 http://livecdnh3.tvanywhere.ae/hls/docubox/index.m3u8
 #EXTINF:-1,Fox
 https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
-#EXTINF:-1,DABL 
-https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
 #EXTINF:-1,Insight
 http://jiocgwhub.jio.ril.com/Insight/Insight_800.m3u8
 #EXTINF:-1,Red Bull TV
