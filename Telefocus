@@ -246,7 +246,7 @@ http://139.59.13.228:8081/live/stream/playlist.m3u8
 #EXTINF:-1,Nick JR
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 #EXTINF:-1,Nickelodeon
-http://ms-azure-video.gslb.startimestv.com/live/NICKELODEON_836_250_320x240_191618/playlist.m3u8
+https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 #EXTINF:-1,ABC Kids
 https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 #EXTINF:-1,Discovery Kids
@@ -349,16 +349,28 @@ http://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 http://43.231.22.238:8081/temp1/ctg_skycricket/playlist.m3u8
 #EXTINF:-1,Sky Sports Football
 http://43.231.22.238:8081/temp1/ctg_skyfootball/playlist.m3u8
-#EXTINF:-1,World Football
-http://ms-azure-video.gslb.startimestv.com/live/ST_WORLD_FOOTBALL_HD_1020_1000_640x480_305754/playlist.m3u8
-#EXTINF:-1,Sports Focus
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_FOCUS_UHD_1042_1000_640x480_306820/playlist.m3u8
-#EXTINF:-1,Sports Premium
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_PREMIUM_TEST_1022_1000_640x480_306418/playlist.m3u8
-#EXTINF:-1,Sports Life
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_LIFE_UHD_1044_1000_640x480_306838/playlist.m3u8
-#EXTINF:-1,Sports Arena
-http://ms-azure-video.gslb.startimestv.com/live/ST_SPORTS_ARENA_UHD_1046_1000_640x480_306840/playlist.m3u8
+#EXTINF:-1,Bein Sports 1
+https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1.m3u8
+#EXTINF:-1,Bein Sports 2
+https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2.m3u8
+#EXTINF:-1,Bein Sports 3
+http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8
+#EXTINF:-1,Bein Sports 4
+http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8
+#EXTINF:-1,Bein Sports 5
+http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8
+#EXTINF:-1,Bein Sports 6
+http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8
+#EXTINF:-1,Bein Sports 7
+http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8
+#EXTINF:-1,Bein Sports 8
+http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8
+#EXTINF:-1,Bein Sports 9
+http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8
+#EXTINF:-1,Bein Sports 10
+http://51.15.8.16:8081/arbiarb/beinsports10/chunks.m3u8
+#EXTINF:-1,Bein Sports 11
+http://51.15.8.16:8081/arbiarb/beinsports11/chunks.m3u8
 #EXTINF:-1,MNC Sports
 https://anevia115.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1,Dubai Racing
@@ -601,9 +613,7 @@ http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:-1,Colors HD (Only Big Boss)
 http://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master_3628.m3u8
-#EXTINF:-1,Colors (Opt-1)
-http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
-#EXTINF:-1,Colors (Opt-2)
+#EXTINF:-1,Colors
 http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1,Sony TV
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
