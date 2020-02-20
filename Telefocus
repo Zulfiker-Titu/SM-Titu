@@ -89,15 +89,17 @@ http://streamidvo.multitvsolution.in/TLCEng-a/playlist.m3u8
 https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
 #EXTINF:-1,Akaash Aath (Opt-2)
 http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
-#EXTINF:-1,Colors Bangla
+#EXTINF:-1,Colors Bangla HD
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
+#EXTINF:-1,Colors Bangla
+http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/colors_bangla_hi/index.m3u8
 #EXTINF:-1,Sony Aath (Opt-1)
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 #EXTINF:-1,Sony Aath (Opt-2)
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
-#EXTINF:-1,Star Jalsha (Opt-1)
+#EXTINF:-1,Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1,Star Jalsha (Opt-2)
+#EXTINF:-1,Star Jalsha
 http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/playlist.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-1)
 http://103.58.73.26/streams/115/index.m3u8
@@ -343,6 +345,8 @@ http://51.158.144.124:8090/CR/1/index.m3u8
 http://163.172.85.133:8080/TenS/sports/index.m3u8
 #EXTINF:-1,GEO Super
 http://43.231.22.238:8081/temp1/ctg_geosuper/playlist.m3u8
+#EXTINF:-1,Sky Net Sports
+http://119.59.116.136:8889/threstr/skynethd/chunks.m3u8
 #EXTINF:-1,Sky Net Sports 1
 http://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
 #EXTINF:-1,Sky Net Sports 4
@@ -845,6 +849,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 #EXTINF:-1,Retro
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+#EXTINF:-1,Rock
+http://muzzik-live.morescreens.com/mts-1/chunklist.m3u8
 #EXTINF:-1,ROCK TV
 http://46.20.136.59/live3/_definst_/rocktv/playlist.m3u8
 #EXTINF:-1,m2o
