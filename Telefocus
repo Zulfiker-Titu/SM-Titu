@@ -335,6 +335,8 @@ http://43.231.22.238:8081/temp1/ctg_tensports/playlist.m3u8
 http://43.231.22.238:8081/temp1/ctg_ptvsports/playlist.m3u8
 #EXTINF:-1,PTV Sports (Opt-2)
 http://51.158.144.124:8090/CR/1/index.m3u8
+#EXTINF:-1,PTV Sports (Opt-3)
+http://163.172.85.133:8080/TenS/sports/index.m3u8
 #EXTINF:-1,GEO Super
 http://43.231.22.238:8081/temp1/ctg_geosuper/playlist.m3u8
 #EXTINF:-1,Sky Net Sports 1
@@ -483,10 +485,6 @@ http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/livingfoodz/index.
 https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest_22.m3u8
 #EXTINF:-1,Zee Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1,Better Life TV
-http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
-#EXTINF:-1,Better Health TV
-http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
 #EXTINF:-1,Star Movies
 http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO
