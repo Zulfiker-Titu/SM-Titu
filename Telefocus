@@ -85,12 +85,16 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/04.m3u8
 http://streamidvo.multitvsolution.in/live/APHDHindi-a/p4.m3u8
 #EXTINF:-1,TLC
 http://streamidvo.multitvsolution.in/TLCEng-a/playlist.m3u8
-#EXTINF:-1,Akaash Aath
+#EXTINF:-1,Akaash Aath (Opt-1)
 https://streamer-1.toffeelive.com/live/akash_aath_720/index.m3u8
+#EXTINF:-1,Akaash Aath (Opt-2)
+http://103.205.133.42:1935/local/akash_aath_720/chunklist.m3u8
 #EXTINF:-1,Colors Bangla
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/playlist.m3u8
-#EXTINF:-1,Sony Aath
+#EXTINF:-1,Sony Aath (Opt-1)
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
+#EXTINF:-1,Sony Aath (Opt-2)
+http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 #EXTINF:-1,Star Jalsha (Opt-1)
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
 #EXTINF:-1,Star Jalsha (Opt-2)
