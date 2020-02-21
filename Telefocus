@@ -496,7 +496,7 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 #EXTINF:-1,HBO
 http://103.58.73.26/streams/1011/index.m3u8
 #EXTINF:-1,HBO (Indonesia)
-http://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+http://103.68.251.137/live/hbo/index.m3u8
 #EXTINF:-1,HBO HiTS
 https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
 #EXTINF:-1,HBO Signature
