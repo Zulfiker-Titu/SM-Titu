@@ -99,7 +99,11 @@ https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 http://103.205.133.42:1935/local/sony_aath_720/chunklist.m3u8
 #EXTINF:-1,Star Jalsha HD
 https://itpolly.iptv.digijadoo.net/live/star_jalsha_hd/chunks.m3u8
-#EXTINF:-1,Star Jalsha
+#EXTINF:-1,Star Jalsha (Opt-1)
+http://fr-c.movply.stream/hls/Star_Jalsha.m3u8
+#EXTINF:-1,Star Jalsha (Opt-2)
+http://103.111.120.46/hls/Star_Jalsha.m3u8
+#EXTINF:-1,Star Jalsha (Opt-3)
 http://telelivetv.webredirect.org:8081/globeworld2020/starjalsha/playlist.m3u8
 #EXTINF:-1,Jalsha Movies (Opt-1)
 http://103.58.73.26/streams/115/index.m3u8
