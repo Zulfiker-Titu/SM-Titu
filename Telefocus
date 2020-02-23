@@ -345,8 +345,6 @@ http://43.231.22.238:8081/temp1/ctg_tensports/playlist.m3u8
 http://43.231.22.238:8081/temp1/ctg_ptvsports/playlist.m3u8
 #EXTINF:-1,PTV Sports (Opt-2)
 http://51.158.144.124:8090/CR/1/index.m3u8
-#EXTINF:-1,PTV Sports (Opt-3)
-http://163.172.85.133:8080/TenS/sports/index.m3u8
 #EXTINF:-1,GEO Super
 http://43.231.22.238:8081/temp1/ctg_geosuper/playlist.m3u8
 #EXTINF:-1,Sky Net Sports
@@ -364,9 +362,27 @@ http://43.231.22.238:8081/temp1/ctg_skycricket/playlist.m3u8
 #EXTINF:-1,Sky Sports Football
 http://43.231.22.238:8081/temp1/ctg_skyfootball/playlist.m3u8
 #EXTINF:-1,Bein Sports 1
-https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1.m3u8
+http://51.15.8.16:8081/arbiarb/beinsports1/chunks.m3u8
 #EXTINF:-1,Bein Sports 2
-https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2.m3u8
+http://51.15.8.16:8081/arbiarb/beinsports2/chunks.m3u8
+#EXTINF:-1,Bein Sports 3
+http://51.15.8.16:8081/arbiarb/beinsports3/chunks.m3u8
+#EXTINF:-1,Bein Sports 4
+http://51.15.8.16:8081/arbiarb/beinsports4/chunks.m3u8
+#EXTINF:-1,Bein Sports 5
+http://51.15.8.16:8081/arbiarb/beinsports5/chunks.m3u8
+#EXTINF:-1,Bein Sports 6
+http://51.15.8.16:8081/arbiarb/beinsports6/chunks.m3u8
+#EXTINF:-1,Bein Sports 7
+http://51.15.8.16:8081/arbiarb/beinsports7/chunks.m3u8
+#EXTINF:-1,Bein Sports 8
+http://51.15.8.16:8081/arbiarb/beinsports8/chunks.m3u8
+#EXTINF:-1,Bein Sports 9
+http://51.15.8.16:8081/arbiarb/beinsports9/chunks.m3u8
+#EXTINF:-1,Bein Sports 10
+http://51.15.8.16:8081/arbiarb/beinsports10/chunks.m3u8
+#EXTINF:-1,Bein Sports 11
+http://51.15.8.16:8081/arbiarb/beinsports11/chunks.m3u8
 #EXTINF:-1,MNC Sports
 https://anevia115.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1,Dubai Racing
@@ -379,10 +395,6 @@ http://ott.artmott.com/ArtSport1/tracks-v1a1/mono.m3u8
 http://ott.artmott.com/ArtSport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ART Sports 3
 http://ott.artmott.com/ArtSport3/tracks-v1a1/mono.m3u8
-#EXTINF:-1,true premier football 1
-http://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1,true premier football 2
-http://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,RTSH Sport
 http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
 #EXTINF:-1,rm tv
@@ -391,12 +403,8 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1,BAHRAIN TV SPORTS
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
-#EXTINF:-1,Fight Box
-https://1610186124.rsc.cdn77.org/1610186124/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fight Sports
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
-#EXTINF:-1,NBA HD
-http://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1,Sports Kool
 https://a.jsrdn.com/broadcast/22697/+0000/hi/c.m3u8
 #EXTINF:-1,DD Sports
@@ -407,10 +415,10 @@ https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
 https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/1.m3u8
 #EXTINF:-1,SPORTSCAST
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1,Super Tennies
+#EXTINF:-1,LaLiga TV
 http://push12.feber.xyz/hls/channel21hd47/chunks.m3u8
 #EXTINF:-1,Fox Sports 1
-http://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
 #EXTINF:-1,Fox Sports 2
 https://anevia115.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2.m3u8
 #EXTINF:-1,Fox Sports 3
@@ -503,10 +511,6 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/04.m3u8
 http://103.58.73.26/streams/1011/index.m3u8
 #EXTINF:-1,HBO (Indonesia)
 http://103.68.251.137/live/hbo/index.m3u8
-#EXTINF:-1,HBO HiTS
-https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits.m3u8
-#EXTINF:-1,HBO Signature
-https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_hls/HBOSignature.m3u8
 #EXTINF:-1,WB TV
 https://anevia115.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
 #EXTINF:-1,MBC MAX HD
@@ -523,8 +527,6 @@ http://210.210.155.35/qwr9ew/s/s34/01.m3u8
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1,Lotus Macau
 https://streamer-1.toffeelive.com/live/lotus_720/index.m3u8
-#EXTINF:-1,CineMax
-https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD.m3u8
 #EXTINF:-1,ROMEDY NOW
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 #EXTINF:-1,ifilm
@@ -534,11 +536,11 @@ https://anevia115.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1,Star World
 http://livecdnh1.tvanywhere.ae/hls/star_world/04.m3u8
 #EXTINF:-1,Fox Action Movies
-https://anevia115.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
+https://live.mawintv2.com/02_FoxActionHD_720p/chunklist.m3u8
 #EXTINF:-1,Fox Family Movies
 https://anevia115.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
 #EXTINF:-1,Fox Movies
-https://anevia115.mncnow.id/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
+https://live.mawintv2.com/02_FoxMoviesHD_720p/chunklist.m3u8
 #EXTINF:-1,Fox Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1,FX
@@ -549,6 +551,8 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS.m3u8
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Pix
 https://streamer-1.toffeelive.com/live/sony_pix_720/index.m3u8
+#EXTINF:-1,Sony Pix HD
+http://51.15.8.16:8081/lolind2/sonypixhd/playlist.m3u8
 #EXTINF:-1,Movies Now
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:-1,Zee Cafe HD
