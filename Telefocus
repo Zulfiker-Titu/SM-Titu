@@ -257,8 +257,6 @@ http://139.59.13.228:8081/live/stream/playlist.m3u8
 http://185.176.117.243/live/eds/Nick_JR/HLS_encr/Nick_JR.m3u8
 #EXTINF:-1,Nickelodeon
 https://anevia115.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
-#EXTINF:-1,ABC Kids
-https://i.mjh.nz/au/Brisbane/tv.101002210222.m3u8
 #EXTINF:-1,Discovery Kids
 http://streamidvo.multitvsolution.in/DiscoveryKidsEng-a/playlist.m3u8
 #EXTINF:-1,Sony Yay
@@ -595,6 +593,8 @@ http://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2
 http://tx.hls.huya.com/huyalive/30765679-2689675828-11552069718101721088-3048991626-10057-A-0-1.m3u8
 #EXTINF:-1,MANDARIN MOVIES 3
 http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8
+#EXTINF:-1,Real PX Comedy
+http://1427531085.rsc.cdn77.org/1427531085/tracks-v1a1/mono.m3u8
 #EXTINF:-1,POP LIFE
 https://d3cbe0gidjd4k2.cloudfront.net/channel_2/channel2/chunklist_w1932655832.m3u8
 #EXTINF:-1,VH1
