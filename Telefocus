@@ -310,7 +310,7 @@ http://103.58.73.26/streams/106/index.m3u8
 #EXTINF:-1,Sony SIX (Opt-02)
 https://streamer-1.toffeelive.com/live/sony_six_hd_720/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-1)
-http://103.58.73.26/streams/104/index.m3u8
+http://niazitv.pk:8080/sports/24/7/by/Niazi_TV/index.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-2)
 http://103.58.73.26/streams/1004/index.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-1)
