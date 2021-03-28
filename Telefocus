@@ -325,6 +325,10 @@ http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/57.m3u8
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/91.m3u8
 #EXTINF:-1,Jonack
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1,Rengoni
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6632/index.m3u8
+#EXTINF:-1,Prag News
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6631/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Assam_Talks_logo.png" group-title="Assamese",Assam Talk
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.dy365.in/images/dy365.jpg" group-title="Assamese",dy365
