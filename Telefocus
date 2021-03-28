@@ -87,14 +87,14 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery Hindi
 http://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
-#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
+#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD Hindi
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC HD Hindi
 https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9TvXKCG/travelxp-0-jpeg.png" group-title="Documentary",travel xp HD
-http://172.32.1.88:1935/tvprogram/TRAVELXP-BANGLA/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9TvXKCG/travelxp-0-jpeg.png" group-title="Documentary",travel xp HD Hindi
+http://topiptv.net:5890/abcd/123456/68756
 #EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Entertainment",Aakash Aath
 http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD
@@ -505,14 +505,14 @@ http://160.119.77.116:8081/iptv/uk-skysports-mix.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/uk-espn.stream/playlist.m3u8
 #EXTINF:-1,MAQ TV
 http://str24.l9574.com/517.stream/index.m3u8
-#EXTINF:-1,Astro SuperSport 1
-http://50.7.222.130:8278/streams/d/Assp1/playlist.m3u8
-#EXTINF:-1,Astro SuperSport 2
-http://50.7.222.130:8278/streams/d/Assp2/playlist.m3u8
-#EXTINF:-1,Astro SuperSport 3
-http://50.7.222.130:8278/streams/d/Assp3/playlist.m3u8
-#EXTINF:-1,Astro SuperSport 4
-http://50.7.222.130:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1,Astro Super Sport 1
+http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1,Astro Super Sport 2
+http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1,Astro Super Sport 3
+http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1,Astro Super Sport 4
+http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1,Motorvision
 http://27.254.142.14/motorvision.m3u8
 #EXTINF:-1,Ten Cricket
@@ -1095,6 +1095,8 @@ https://np.nettvnepal.com.np/pulltest/NTVNEPAL1500.stream/chunks.m3u8
 https://nepaltv.nettvnepal.com.np/notoken/netNTVKOHALPUR1500.stream/chunks.m3u8
 #EXTINF:-1,Nepal Itahari
 https://nepaltv.nettvnepal.com.np/notoken/ntvithari.stream/chunks.m3u8
+#EXTINF:-1,Kantipur TV HD
+https://ktvhdnpicc6670.ekantipur.com:443/ktv_abr/hd/kantipurtv/hd_720/chunks.m3u8
 #EXTINF:-1,atv
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
 #EXTINF:-1,TRT Kurdi
