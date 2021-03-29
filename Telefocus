@@ -322,7 +322,7 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Music",Sangeet Bangla
 http://topiptv.net:5890/abcd/123456/68649
 #EXTINF:-1,Dhoom Music
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/57.m3u8
+http://10.16.100.201/hindi/dhoom_music_1stop_in.m3u8
 #EXTINF:-1,Bangla Talkies
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/91.m3u8
 #EXTINF:-1,Jonack
