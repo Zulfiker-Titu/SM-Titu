@@ -1093,12 +1093,14 @@ https://voot.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1,ANALAI EXPRESS
 http://live.streamjo.com:1935/sarastv/sarastv.m3u8
+#EXTINF:-1,NTV News HD
+http://139.59.35.138:80/ntvlivestream/hd-NtvNews-abrHD.stream/ntvliveorigin/ntvnews240.stream/dvr_v_p810_1536741.ts?nimblesessionid=823&wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDIxIDEyOjU1OjE4IFBNJmhhc2hfdmFsdWU9WGxUSFEvbnRWOWRqcUlDUE03eW1VZz09JnZhbGlkbWludXRlcz01JmlkPTE=
 #EXTINF:-1,Nepal Television HD
-https://np.nettvnepal.com.np/pulltest/NTVNEPAL1500.stream/chunks.m3u8
-#EXTINF:-1,Nepal Kohalpur
-https://nepaltv.nettvnepal.com.np/notoken/netNTVKOHALPUR1500.stream/chunks.m3u8
-#EXTINF:-1,Nepal Itahari
-https://nepaltv.nettvnepal.com.np/notoken/ntvithari.stream/chunks.m3u8
+http://139.59.35.138:80/ntvlivestream/NTVNEPAL-abrHD.stream/ntvliveorigin/ntvhd240.stream/dvr_v_p524_4326901.ts?nimblesessionid=829&wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDIxIDEyOjU3OjA5IFBNJmhhc2hfdmFsdWU9TjF2OVlrenNWdEQ0VU9XVjJVMWlQZz09JnZhbGlkbWludXRlcz01JmlkPTE=
+#EXTINF:-1,NTV Kohalpur HD
+http://139.59.35.138:80/ntvlivestream/NTVKohalpur.stream/ntvliveorigin/Kohalpur450.stream/dvr_v_p57_311407141.ts?nimblesessionid=815&wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDIxIDEyOjUzOjM2IFBNJmhhc2hfdmFsdWU9YkVsbHYyUEhzV24xaXUzT0IvbGZ0Zz09JnZhbGlkbWludXRlcz01JmlkPTE=
+#EXTINF:-1,NTV Itahari HD
+http://139.59.35.138:80/ntvlivestream/ntvithari.stream/dvr_v_p76_118860741.ts?nimblesessionid=812&wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDIxIDEyOjQ5OjU3IFBNJmhhc2hfdmFsdWU9NVJMcS8vaExMenBTYXhpeVhxMGRndz09JnZhbGlkbWludXRlcz01JmlkPTE=
 #EXTINF:-1,Kantipur TV HD
 https://ktvhdnpicc6670.ekantipur.com:443/ktv_abr/hd/kantipurtv/hd_720/chunks.m3u8
 #EXTINF:-1,atv
