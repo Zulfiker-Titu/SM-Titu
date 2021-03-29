@@ -150,7 +150,7 @@ https://itvorigin.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1,Bongo Movies
 http://pn.tvott.info:80/477823265351104/477823265351104/83795
 #EXTINF:-1,DD Bangla
-http://pn.tvott.info:80/477823265351104/477823265351104/83827
+http://topiptv.net:5890/abcd/123456/68620
 #EXTINF:-1,R Plus News
 https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
 #EXTINF:-1,Express News
@@ -576,7 +576,7 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,Sport TV HD 5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,beIN Sports 1
-http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1453.m3u8
+http://3.yacinelg.xyz/live/918454578/index.m3u8
 #EXTINF:-1,beIN Sports 2
 http://s1.mainevents.icu:8000/live/239021AM4884820/47212021AM4784345/1450.m3u8
 #EXTINF:-1,beIN Sports 3
@@ -709,10 +709,14 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://nimble.dashmedia.tv/onestudio/actionsportstv/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,NTV SPORTS HD
 http://46.105.233.106:8484/hls/ntvspor/playlist.m3u8
-#EXTINF:-1,ESPN 1
-http://187.188.147.165:8000/play/a00b
+#EXTINF:-1,ESPN
+https://gma2.blab.email/fs2.m3u8
 #EXTINF:-1,ESPN 2
-http://187.188.147.165:8000/play/a00c
+https://gma2.blab.email/espn2.m3u8
+#EXTINF:-1,ESPN U
+https://gma2.blab.email/espnu.m3u8
+#EXTINF:-1,DTX
+http://iptv.allkaicerteam.com:8080/kaicer_VIPubni3r/1dmjfl/2946
 #EXTINF:-1,Sport
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1,Fox Sports 1
@@ -851,6 +855,8 @@ http://digiiptv.ddns.net:25461/mst123/mst123/155
 https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
 #EXTINF:-1,HBO (Opt-2)
 http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
+#EXTINF:-1,HBO (Opt-3)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
 #EXTINF:-1,HBO Signature
 http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
 #EXTINF:-1,HBO Hits (Opt-1)
@@ -872,7 +878,7 @@ http://89.106.234.4/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1,Cinemax (Opt-1)
 http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
 #EXTINF:-1,Cinemax (Opt-2)
-http://quangvinh997.duckdns.org:8889/udp/225.1.2.86:30120
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/111.m3u8
 #EXTINF:-1,Cinemax 1 HD
 http://136.243.177.164/CINEMAX/playlist.m3u8
 #EXTINF:-1,Cinemax 2 HD
@@ -918,7 +924,7 @@ http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1,AXN (Opt-02)
 http://136.243.177.164/AXN/index.m3u8
 #EXTINF:-1,AXN (Opt-03)
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/765
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/121.m3u8
 #EXTINF:-1,amc
 https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
 #EXTINF:-1,HITS
@@ -1150,8 +1156,8 @@ http://54.37.82.205:8081/liveorigin/hd-natgeo_720/playlist.m3u8
 http://193.126.18.184:4022/udp/239.100.40.13:1234
 #EXTINF:-1,NAT GEO PEOPLE
 http://62.210.127.217:8080/rPb6vJJBsPx3c3Cc/1c3XNBxRQt6Fd8Xk/28658?play_token=ShPWe7s3dC&token=QhVcUhcJRggXUw1eCwcDUlhVAFcFVVAFXFUBVgBbUVRdU1FQXFdTA1NGGURBEkJRAFtpWgVEXlFdUgBZSkAXElxFa1oAQ14QA1MBVQpfEhhDQl9eBEReUlNUBVNQVltVABsWQw0FRggXVQxWBVESGENTTkcEFAoCCTtRBBALAQQbDVpGCA1IEFoKagJXC1FaBRQMEVBESEEMF0VDXAwXDVUbFlENFRZTQQEXXBBUAgRVFBoRAgkRDREWTENcQC84GxsWVhwVAVxGDVoIEFwSQBIUGhEIFTsRABdBEwMDDwRLFQ4RVENIEFgFTTlRCV5aBFVCWg4IF0FfRgRDSkAPDldeQFwWPhRbUUYPRABeAAZQFEs=
-#EXTINF:-1,National Geographic HD
-http://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
+#EXTINF:-1,National Geographic
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/128.m3u8
 #EXTINF:-1,BBC America
 http://supersonictv.live:25461/dalvin/dalvin/22051
 #EXTINF:-1,YTN Science
