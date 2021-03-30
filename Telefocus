@@ -50,7 +50,7 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV
 http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-1)
-http://edge.thunderbd.com:8082/102/index.m3u8?token=509bac92c3f04edb7d3273f7a8c33850f5bd8e66-7e33e6a9b05732e4b26bdfb544d541ae-1617031487-1617020687&remote=103.134.41.190
+http://edge.thunderbd.com:8082/102/index.m3u8?token=b97c13ee030b619f2195c7de4d76233634dfc66f-1031cb0816f8682b7d7600ce8150abc7-1617100534-1617089734&remote=103.134.41.190
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-2)
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-3)
