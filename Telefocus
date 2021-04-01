@@ -362,49 +362,55 @@ https://live.mycast.in/ngtv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 #EXTINF:-1,Animax (Opt-1)
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1,Animax (Opt-2)
-https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,Hungama Kids
-http://182.176.93.225:8000/play/a01l
-#EXTINF:-1,POGO
-http://182.176.93.225:8000/play/a01p
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist.m3u8
+#EXTINF:-1,Animax (Opt-3)
+http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/125.m3u8
+#EXTINF:-1,Aniplus (Opt-1)
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1,AniPlus (Opt-2)
+http://45.126.83.51/dr9445/h/h02/01.m3u8
 #EXTINF:-1,Boomerang (Opt-1)
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist.m3u8
 #EXTINF:-1,Boomerang (Opt-2)
 http://27.254.130.61/live01/ch18.m3u8?p=st
 #EXTINF:-1,Disvovery Kids
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8?checkedby:rockettvapk.blogspot.com
-#EXTINF:-1,Disney Channel
-https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
-#EXTINF:-1,Disney XD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.m3u8 #EXTINF:-1,Sony Yay http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/66.m3u8
+https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
+#EXTINF:-1,Disney Channel HD
+http://ajstreamz.xyz:8080/Constance/constance/151081
 #EXTINF:-1,Disney Junior
-http://182.176.93.225:8000/play/a01n
+http://ajstreamz.xyz:8080/Constance/constance/151082 
+#EXTINF:-1,Disney XD
+http://ajstreamz.xyz:8080/Constance/constance/151083
+#EXTINF:-1,Sony Yay Bangla
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1,Cbeebies BBC
-http://51.52.156.22:8888/http/003;
-#EXTINF:-1,Cartoon Network (India)
-https://streams.simpaisa.com:8443/pitvlive3/cartoonhindi.smil/chunklist.m3u8
+http://51.52.156.22:8888/http/003
+#EXTINF:-1,Cartoon Network HD
+http://ajstreamz.xyz:8080/Constance/constance/151079
+#EXTINF:-1,Cartoon Network Hindi (Opt-1)
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1,Cartoon Network Hindi (Opt-2)
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/79.m3u8
+#EXTINF:-1,Cartoon Network (Arabic)
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1,CN Vietnam
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
-#EXTINF:-1,CN Arabic
-http://79.137.41.99/Cartoonnetwork/index.m3u8 
 #EXTINF:-1,CN
 http://51.68.141.106:8081/tv/cartoon-network/chunks.m3u8
-#EXTINF:-1,DA VINCI KIDS
-http://d-e-02.cdn.rdsnet.ro/DVR/davincilearningsdb.stream/playlit.m3u8
-#EXTINF:-1,MAS TV
-https://fra-haproxy.angelthump.com/hls/mastv46/index.m3u8?stream=mastv468
+#EXTINF:-1,MBC 3 HD
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_1.m3u8
+#EXTINF:-1,Kidoodle tv
+https://kidoodletv-kdtv-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,MANGAS
 http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/Mangas_live/04.m3u8
 #EXTINF:-1,Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1,Wow Kids Tamil
 https://yupppreview.akamaized.net/preview/wowkidztam/2500.m3u8
-#EXTINF:-1,Minika Cocuk
-http://bb123.pro:1453/samy19_20/g5woSDuZf6/253
-#EXTINF:-1,NICK Jr. (Opt-1)
-https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
-#EXTINF:-1,NICK Jr. (Opt-2)
-https://cdn1.mobiletv.bg/T5/bit/bit_794613_850k.m3u8
+#EXTINF:-1,Nick Bangla
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/55.m3u8
+#EXTINF:-1,NICK Jr.
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&u
 #EXTINF:-1,3ABN Kids TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/HQs/chunklist.m3u8
 #EXTINF:-1,KETNET JUNIOR
@@ -413,14 +419,10 @@ http://content.uplynk.com/channel/e11a05356cc44198977436418ad71832.m3u8
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
 #EXTINF:-1,Baby First
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1,Baby TV
-http://rec2.distv.net:8080/live/arnaldo/123456/117.m3u8
 #EXTINF:-1,EBS KIDS
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
 #EXTINF:-1,TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1,GEM Kids
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 #EXTINF:-1,PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 #EXTINF:-1,CARTOON RETRO
@@ -431,12 +433,14 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 http://de2.martiatv.com:8080/hls/kidstvlive.m3u8
 #EXTINF:-1,TG Junior
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
-#EXTINF:-1,Cartoons
-http://stream-sky.cf:80/live/edvandro24h/4mRJSpRD1h/755698.ts?checkedby:hlscat.com
 #EXTINF:-1,Jeko
 http://nn1.joj.sk/hls/rik-540.m3u8
-#EXTINF:-1,tvo kids
-https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
+#EXTINF:-1,Duronto TV
+http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/10.m3u8
+#EXTINF:-1,Rotana Kids
+https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
+#EXTINF:-1,Sonic Bangla
+http://topiptv.net:5890/abcd/123456/68719
 #EXTINF:-1,Sony Ten 1 (Opt-1)
 http://209.126.120.153:80/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-2)
