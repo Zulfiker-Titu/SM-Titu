@@ -58,6 +58,8 @@ http://otv.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-4)
 http://209.126.120.153:80/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-5)
+http://10.16.100.207:8082/sports/sportst.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-6)
 http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="News",Independent TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -93,8 +95,8 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC HD Hindi
 https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9TvXKCG/travelxp-0-jpeg.png" group-title="Documentary",travel xp HD Hindi
-http://topiptv.net:5890/abcd/123456/68756
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9TvXKCG/travelxp-0-jpeg.png" group-title="Documentary",travel xp HD
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Entertainment",Aakash Aath
 http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD
@@ -133,8 +135,6 @@ http://otv.ftpbd.net/streams/107/index.m3u8
 http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-3)
 http://209.126.120.153:80/hls/zeebanglahd.m3u8
-#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-4)
-http://topiptv.net:5890/abcd/123456/68661
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-1)
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-2)
@@ -150,7 +150,7 @@ https://orangedigital.livebox.co.in:443/Orangebanglahls/Orangebangla.m3u8
 #EXTINF:-1,Khushboo Bangla
 https://itvorigin.multitvsolution.com/idvo/khushboo.m3u8
 #EXTINF:-1,Bongo Movies
-http://pn.tvott.info:80/477823265351104/477823265351104/83795
+http://master.beeiptv.com:8081/master/duronto/playlist.m3u8
 #EXTINF:-1,DD Bangla
 http://topiptv.net:5890/abcd/123456/68620
 #EXTINF:-1,R Plus News
@@ -186,7 +186,7 @@ https://d276v0apjdxe7n.cloudfront.net:443/out/v1/94b12003316c4d6c9721a1508b0d1ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HKJrsz3/images.png" group-title="News",ETV Bharat English
 https://d2zmy2ox1qkejw.cloudfront.net:443/out/v1/770fb77abc5d4ef487fc8b8b38d60510/ETVB_CF_EN_NewsTime_1.m3u8
 #EXTINF:-1,Colors BD TV
-http://master.beeiptv.com:8081/CB/colorsbdtv/playlist.m3u8
+http://master.beeiptv.com:8081/master/colorsbdtv/playlist.m3u8
 #EXTINF:-1,Nongor TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nongortv.stream/chunks.m3u8
 #EXTINF:-1,Dhaka TV
