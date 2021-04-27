@@ -510,13 +510,13 @@ http://160.119.77.116:8081/iptv/uk-espn.stream/playlist.m3u8
 #EXTINF:-1,MAQ TV
 http://str24.l9574.com/517.stream/index.m3u8
 #EXTINF:-1,Astro Super Sport 1
-http://198.16.106.58:8278/streams/d/Assp1/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1,Astro Super Sport 2
-http://198.16.106.58:8278/streams/d/Assp2/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1,Astro Super Sport 3
-http://198.16.106.58:8278/streams/d/Assp3/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1,Astro Super Sport 4
-http://198.16.106.58:8278/streams/d/Assp4/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1,Motorvision
 http://27.254.142.14/motorvision.m3u8
 #EXTINF:-1,Ten Cricket
