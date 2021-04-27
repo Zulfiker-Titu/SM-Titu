@@ -492,23 +492,23 @@ http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SP
 #EXTINF:-1,Star Sports Select 2 (Opt-2)
 ttp://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:-1,Sky Sports Football HD
-http://160.119.77.116:8081/iptv/uk-skysports-football.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
 #EXTINF:-1,Sky Sports Cricket HD
-http://160.119.77.116:8081/iptv/uk-skysports-cricket.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/chunks.m3u8
 #EXTINF:-1,Sky Sports F1 HD
-http://160.119.77.116:8081/iptv/uk-skysports-f1.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/skysportsf1.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Action HD
 http://160.119.77.116:8081/iptv/uk-skysports-action.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Arena HD
-http://160.119.77.116:8081/iptv/uk-skysports-arena.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/skysports-arena.stream/chunks.m3u8
 #EXTINF:-1,Sky Sports EPL HD
-http://160.119.77.116:8081/iptv/uk-skysports-epl.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/skysports-premier-league.stream/chunks.m3u8
 #EXTINF:-1,Sky Sports Event HD
 http://160.119.77.116:8081/iptv/uk-skysports-mainevent.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Golf HD
 http://160.119.77.116:8081/iptv/uk-skysports-golf.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports Mix HD
-http://160.119.77.116:8081/iptv/uk-skysports-mix.stream/playlist.m3u8
+http://stream.tvtap.live:8081/live/skysportsmix.stream/playlist.m3u8
 #EXTINF:-1,Sky Sports HD
 http://160.119.77.116:8081/iptv/uk-espn.stream/playlist.m3u8
 #EXTINF:-1,MAQ TV
@@ -588,11 +588,11 @@ https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 1
 http://atlasiptv.org:8080/mustafa/mustafa/526
 #EXTINF:-1,beIN Sports HD 2
-http://atlasiptv.org:8080/mustafa/mustafa/527
+http://v1.oldboz44.com/beinsport2/index.m3u8
 #EXTINF:-1,beIN Sports HD 3
-http://atlasiptv.org:8080/mustafa/mustafa/528
+http://v1.oldboz44.com/beinsport3/index.m3u8
 #EXTINF:-1,beIN Sports HD 4
-http://atlasiptv.org:8080/mustafa/mustafa/529
+http://v1.oldboz44.com/beinsport4/index.m3u8
 #EXTINF:-1,beIN Sports HD 5
 http://atlasiptv.org:8080/mustafa/mustafa/530
 #EXTINF:-1,beIN Sports HD 6
