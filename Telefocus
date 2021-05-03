@@ -816,7 +816,7 @@ http://cv.khushitv.xyz/channels.php?c=zlivingusa&e=.m3u8
 #EXTINF:-1,Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1,Star Movies HD
-
+http://ponnoshare.ddns.net:25461/live/bangladesh/12345678/151.ts
 #EXTINF:-1,Star TV 1000
 http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8
 #EXTINF:-1,HBO (Opt-1)
