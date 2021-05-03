@@ -173,8 +173,8 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1 tvg-logo="https://bengali.cdn.zeenews.com/bengali/desktop/logo/Zee-24Ghanta_Mob_career.png" group-title="News",Zee 24 Ghanta
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6639/index.m3u8
-#EXTINF:-1,Bhumi TV
-http://versewsa.pc.cdn.bitgravity.com/hls/bhumitv.m3u8
+#EXTINF:-1,TV9 Bangla
+https://vidcdn.vidgyor.com/tv9bangla-origin/live/playlist.m3u8
 #EXTINF:-1,Akhon Kolkata
 http://cdn.live5.in:1935/live/sun6/chunklist.m3u8
 #EXTINF:-1,TV24 Bangla
