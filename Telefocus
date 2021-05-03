@@ -142,7 +142,7 @@ http://209.126.120.153:80/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-1)
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-2)
-http://cv.khushitv.xyz/channels.php?c=zbanglacnm&e=.m3u8
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6636/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-3)
 http://diamondiptv.ddns.net:25461/AdnanAhmed26/123450/667
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Entertainment",Sun Bangla
@@ -172,7 +172,7 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="News",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1 tvg-logo="https://bengali.cdn.zeenews.com/bengali/desktop/logo/Zee-24Ghanta_Mob_career.png" group-title="News",Zee 24 Ghanta
-http://cv.khushitv.xyz/channels.php?c=24ghanta&e=.m3u8
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6639/index.m3u8
 #EXTINF:-1,Bhumi TV
 http://versewsa.pc.cdn.bitgravity.com/hls/bhumitv.m3u8
 #EXTINF:-1,Akhon Kolkata
@@ -331,6 +331,10 @@ https://d3pf2g6avq2sfr.cloudfront.net/DHOOM_MUSIC.m3u8
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:-1,Jonack
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
+#EXTINF:-1,Rengoni
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6632/index.m3u8
+#EXTINF:-1,Prag News
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6631/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Assam_Talks_logo.png" group-title="Assamese",Assam Talk
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.dy365.in/images/dy365.jpg" group-title="Assamese",dy365
@@ -352,7 +356,7 @@ https://cdn.smartstream.video/smartstream-us/tarangmusicmbr/tarangmusicmbr.smil/
 #EXTINF:-1,News 18 Odia
 https://news18odia-lh.akamaihd.net/i/n18odia_1@179753/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1,Zee Odia
-http://cv.khushitv.xyz/channels.php?c=kalinga&e=.m3u8
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6663/index.m3u8
 #EXTINF:-1,OTV 
 https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.livetvmesh.com/wp-content/uploads/2018/11/Naxatra-News.png" group-title="Odia",Naxatra News
@@ -380,17 +384,15 @@ http://ajstreamz.xyz:8080/Constance/constance/151081
 #EXTINF:-1,Disney Junior
 http://ajstreamz.xyz:8080/Constance/constance/151082 
 #EXTINF:-1,Disney XD
-http://ajstreamz.xyz:8080/Constance/constance/151083
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
 #EXTINF:-1,Sony Yay Bangla
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1,Cbeebies BBC
 http://51.52.156.22:8888/http/003
 #EXTINF:-1,Cartoon Network HD
 http://ajstreamz.xyz:8080/Constance/constance/151079
-#EXTINF:-1,Cartoon Network Hindi (Opt-1)
-http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:-1,Cartoon Network Hindi (Opt-2)
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/79.m3u8
+#EXTINF:-1,Cartoon Networrk
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6508/index.m3u8
 #EXTINF:-1,Cartoon Network (Arabic)
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 #EXTINF:-1,CN Vietnam
@@ -407,8 +409,8 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/Mangas_live/04.m3u8
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1,Wow Kids Tamil
 https://yupppreview.akamaized.net/preview/wowkidztam/2500.m3u8
-#EXTINF:-1,Nick Bangla
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/55.m3u8
+#EXTINF:-1,Nick
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6504/index.m3u8
 #EXTINF:-1,NICK Jr.
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&u
 #EXTINF:-1,3ABN Kids TV
@@ -820,7 +822,7 @@ http://136.243.177.164/24KITCHEN/playlist.m3u8
 #EXTINF:-1,Living Foodz
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF:-1,Hum Masala
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/6733/index.m3u8
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6733/index.m3u8
 #EXTINF:-1,Zee Living
 http://cv.khushitv.xyz/channels.php?c=zlivingusa&e=.m3u8
 #EXTINF:-1,Star Movies Select HD
@@ -892,7 +894,7 @@ http://136.243.177.164/AXN/index.m3u8
 #EXTINF:-1,AXN (Opt-03)
 http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/121.m3u8
 #EXTINF:-1,amc
-https://cdn1.mobiletv.bg/T7/amc/amc_794613_850k.m3u8
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6514/index.m3u8
 #EXTINF:-1,HITS
 http://210.210.155.35/uq2663/h/h37/index2.m3u8
 #EXTINF:-1,Lotus Macau
@@ -1074,6 +1076,7 @@ https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT Avaz
 http://tv-trtavaz.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT 1
+https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,Star TV
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1,Wion TV
