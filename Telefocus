@@ -460,7 +460,7 @@ http://212.224.98.196:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
 #EXTINF:-1,Sony Ten 3 (Opt-3)
 http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
 #EXTINF:-1,Sony SIX (Opt-1)
-http://209.126.120.153:80/hls/sonysix.m3u8
+https://webtv-stream.nettv.com.np/iptvlive_abr/sixhdabr.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDIxIDc6MTQ6MzkgQU0maGFzaF92YWx1ZT0zMWJhc25Udmx3MEw5akx1OEZVQUlRPT0mdmFsaWRtaW51dGVzPTE3MjgwMCZpZD1leUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSjkuZXlKbGVIQWlPakUyTVRJeE5qQXpPVGNzSW5OMVluTmpjbWxpWlhKZmFXUWlPaUl5TXpBeU56RTRJaXdpYzNSaUlqb2laMnhmTVRBNE5ETXhORGd3TXpZME5EazBORE15TWprMkxURXdOeUo5LnlRcHo3cjJsbGI2TW1Rdy1Gdm03MVltRlFDdWZFTVBjZXNyb1gyOFdQTGM=
 #EXTINF:-1,Sony SIX (Opt-2)
 http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
 #EXTINF:-1,Sony SIX (Opt-3)
