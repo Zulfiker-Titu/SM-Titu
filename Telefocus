@@ -8,7 +8,7 @@ http://209.126.120.153:80/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Entertainment",ATN Bangla UK
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="News",ATN News
-https://bdsl.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/live-orgin/atnws-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Entertainment",Bangla TV
 http://209.126.120.153:80/hls/banglatv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Entertainment",Banglavision
@@ -114,7 +114,7 @@ http://209.126.120.153:80/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-1)
-http://ponnoshare.ddns.net:25461/live/bangladesh/12345678/863.ts
+http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-2)
 http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-1)
@@ -124,13 +124,13 @@ http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-3)
 http://103.159.4.46:8080/STAR-JALSHA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-1)
-http://ponnoshare.ddns.net:25461/live/bangladesh/12345678/203.ts
+http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-2)
 https://1449.myindian.tv/edge/19531/index.m3u8?token=48.1.7850.5b6712e65ca2a3b59e7e003169e19752.1.2.2.965.0.0.9b67a2a8ca4fd2314fa5ca86d76502ed
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-1)
-http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-2)
-http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
+http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-3)
 http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-1)
@@ -144,7 +144,7 @@ https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-2)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6636/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-3)
-http://ponnoshare.ddns.net:25461/live/bangladesh/12345678/667.ts
+http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Entertainment",Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 #EXTINF:-1,Enterr 10 Bangla
