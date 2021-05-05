@@ -104,11 +104,15 @@ https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Entertainment",Aakash Aath
 http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD
+http://stariptv.xyz:8880/661562/505844/179255
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD
 http://212.224.98.196:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla SD (Opt-1)
 http://10.16.100.205/hls/colorsbd480.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla SD (Opt-2)
 http://209.126.120.153:80/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla SD (Opt-3)
+http://stariptv.xyz:8880/661562/505844/96311
 #EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-7_H8dWEkZhk/WKHdX8JCZNI/AAAAAAAAACI/Ysc-AjiUMfkR1tehUK8NcvWOTvdSch-pgCLcB/s280/Rupashi%2BBangla.png" group-title="Entertainment",Ruposhi Bangla
 http://209.126.120.153:80/hls/ruposhibangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
@@ -132,13 +136,13 @@ http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?toke
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-3)
 https://1449.myindian.tv/edge/19531/index.m3u8?token=48.1.7850.5b6712e65ca2a3b59e7e003169e19752.1.2.2.965.0.0.9b67a2a8ca4fd2314fa5ca86d76502ed
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-1)
-http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
+http://stariptv.xyz:8880/661562/505844/179256
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-2)
-http://tvuk3.technohaat.com:6636/zeebanglahd/video.m3u8?token=2-QvSjSlX2
+http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-3)
 http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-1)
-http://ponnoshare.ddns.net:25461/live/bangladesh/12345678/192.ts
+http://stariptv.xyz:8880/661562/505844/111956
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-2)
 http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-3)
@@ -470,25 +474,29 @@ http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
 #EXTINF:-1,Sony SIX (Opt-3)
 http://208.115.215.42:80/SonY_Six_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 1 (Opt-01)
-http://iptvrestream.online:88/Oana/Oana/17272
+http://stariptv.xyz:8880/661562/505844/179343
 #EXTINF:-1,Star Sports 1 (Opt-02)
-http://iptvrestream.online:88/Oana/Oana/17273
+http://stariptv.xyz:8880/661562/505844/115768
 #EXTINF:-1,Star Sports 1 Hindi
-http://jetstar.one:8080/live/instruktora1961cd/mjikdsep9c/6825.m3u8
+http://stariptv.xyz:8880/661562/505844/179338
 #EXTINF:-1,Star Sports 2 (Opt-1)
 http://10.16.100.207:8082/sports/starsports2.m3u8
 #EXTINF:-1,Star Sports 2 (Opt-2)
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/index.m3u8?token=
 #EXTINF:-1,Star Sports 2 (Opt-3)
-http://185.59.223.95/STARSP_2HD/index.m3u8?token=
+http://stariptv.xyz:8880/661562/505844/179342
+#EXTINF:-1,Star Sports 3
+http://stariptv.xyz:8880/661562/505844/179353
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
 http://10.16.100.207:8082/sports/starsports_select1.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
+#EXTINF:-1,Star Sports Select 1 (Opt-3)
+http://stariptv.xyz:8880/661562/505844/179344
 #EXTINF:-1,Star Sports Select 2 (Opt-1)
 http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
 #EXTINF:-1,Star Sports Select 2 (Opt-2)
-ttp://otv.ftpbd.net/streams/114/index.m3u8
+http://stariptv.xyz:8880/661562/505844/179341
 #EXTINF:-1,Sky Sports Football HD
 http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
 #EXTINF:-1,Sky Sports Cricket HD
