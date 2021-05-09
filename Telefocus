@@ -52,8 +52,6 @@ http://master.beeiptv.com:8081/master/gazitv/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-2)
 http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-3)
-http://ponnoshare.ddns.net:25461/live/bangladesh/12345678/122.ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png" group-title="Entertainment",Gazi TV (Opt-4)
 https://piratesiptv.shortcm.li/gazi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-1)
 http://master.beeiptv.com:8081/master/gazitv/chunks.m3u8
@@ -62,8 +60,6 @@ http://209.126.120.153:80/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-3)
 http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-4)
-http://rv.imax.re:80/live/3Tst9ZqgUA/2dqWR5IiMh/83819.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-5)
 http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="News",Independent TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -91,22 +87,22 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="Documentary",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery Hindi
-http://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
-#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic HD
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD Bangla
+http://103.153.175.254:8080/hls/stream9.m3u8
+#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic HD Bangla
+http://103.153.175.254:8080/hls/stream13.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD Hindi
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC HD Hindi
 https://itvorigin.multitvsolution.com/idvo/tlchdhindi.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/9TvXKCG/travelxp-0-jpeg.png" group-title="Documentary",travel xp HD
-https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9TvXKCG/travelxp-0-jpeg.png" group-title="Documentary",travel xp HD Bangla
+http://103.153.175.254:8080/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Entertainment",Aakash Aath
 http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD (Opt-1)
 http://stariptv.xyz:8880/661562/505844/179255
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD (Opt-2)
-http://212.224.98.196:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/index.m3u8?token=
+http://103.153.175.254:8080/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla SD (Opt-1)
 http://10.16.100.205/hls/colorsbd480.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla SD (Opt-2)
@@ -120,7 +116,7 @@ http://209.126.120.153:80/hls/sony8.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-1)
 http://stariptv.xyz:8880/661562/505844/179253
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-2)
-http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
+http://103.153.175.254:8080/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-3)
 http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-1)
@@ -132,13 +128,13 @@ http://103.159.4.46:8080/STAR-JALSHA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-1)
 http://stariptv.xyz:8880/661562/505844/95428
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-2)
-http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=
+http://103.153.175.254:8080/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-3)
 https://1449.myindian.tv/edge/19531/index.m3u8?token=48.1.7850.5b6712e65ca2a3b59e7e003169e19752.1.2.2.965.0.0.9b67a2a8ca4fd2314fa5ca86d76502ed
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-1)
 http://stariptv.xyz:8880/661562/505844/179256
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-2)
-http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
+http://103.153.175.254:8080/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-3)
 http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-1)
@@ -169,6 +165,8 @@ https://itvorigin.multitvsolution.com/idvo/khushboo.m3u8
 http://master.beeiptv.com:8081/master/duronto/playlist.m3u8
 #EXTINF:-1,DD Bangla
 http://stariptv.xyz:8880/661562/505844/111789
+#EXTINF:-1,News Time Bangla
+https://itvorigin.multitvsolution.com/idvo/newstimebangla.m3u8
 #EXTINF:-1,R Plus News
 https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
 #EXTINF:-1,Express News
@@ -415,6 +413,8 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/Mangas_live/04.m3u8
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1,Wow Kids Tamil
 https://yupppreview.akamaized.net/preview/wowkidztam/2500.m3u8
+#EXTINF:-1,Nick Hindi
+http://103.153.175.254:8080/hls/stream23.m3u8
 #EXTINF:-1,Nick
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6504/index.m3u8
 #EXTINF:-1,Nickoloden
@@ -445,8 +445,6 @@ http://de2.martiatv.com:8080/hls/kidstvlive.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f170d64b898490041b4938f&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
 #EXTINF:-1,Jeko
 http://nn1.joj.sk/hls/rik-540.m3u8
-#EXTINF:-1,Duronto TV
-http://tvserver3.roarzone.info:25461/live/thuderbd/roarzone/10.m3u8
 #EXTINF:-1,Rotana Kids
 https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
 #EXTINF:-1,Sonic Bangla
@@ -827,8 +825,8 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6733/index.m3u8
 http://cv.khushitv.xyz/channels.php?c=zlivingusa&e=.m3u8
 #EXTINF:-1,Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
-#EXTINF:-1,Star Movies HD
-http://ponnoshare.ddns.net:25461/live/bangladesh/12345678/151.ts
+#EXTINF:-1,Star Movies SD
+http://103.153.175.254:8080/hls/stream3.m3u8
 #EXTINF:-1,OSN Star Movies HD
 http://stariptv.xyz:8880/661562/505844/113935
 #EXTINF:-1,Star TV 1000
