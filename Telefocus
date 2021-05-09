@@ -383,14 +383,20 @@ https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist.m3u8
 http://27.254.130.61/live01/ch18.m3u8?p=st
 #EXTINF:-1,Disvovery Kids
 https://itvorigin.multitvsolution.com/idvo/discoverykidshindi.m3u8
-#EXTINF:-1,Disney Channel HD
-http://ajstreamz.xyz:8080/Constance/constance/151081
-#EXTINF:-1,Disney Junior
-http://ajstreamz.xyz:8080/Constance/constance/151082 
-#EXTINF:-1,Disney XD
+#EXTINF:-1,Pogo
+http://starshare.live:8080/live/arfat/arfat/7220.m3u8
+#EXTINF:-1,Disney XD (Opt-1)
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
+#EXTINF:-1,Disney XD (Opt-2)
+http://starshare.live:8080/live/arfat/arfat/10887.m3u8
+#EXTINF:-1,Disney Junior
+http://redlabmcdn.s.llnwi.net/jp01/bs13/index.m3u8
 #EXTINF:-1,Sony Yay Bangla
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+#EXTINF:-1,Rongeen TV Bangla
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist.m3u8
+#EXTINF:-1,minimimi
+http://207.110.52.61:8080/s/hls/5/8668/minimini_258/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Cbeebies BBC
 http://51.52.156.22:8888/http/003
 #EXTINF:-1,Cartoon Network HD
@@ -413,8 +419,10 @@ http://cdn.webtv4.cdnfr.orange.fr/hs/HALO1/hls/live/Mangas_live/04.m3u8
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1,Wow Kids Tamil
 https://yupppreview.akamaized.net/preview/wowkidztam/2500.m3u8
-#EXTINF:-1,Nick Hindi
+#EXTINF:-1,Nick Hindi (Opt-1)
 http://103.153.175.254:8080/hls/stream23.m3u8
+#EXTINF:-1,Nick Hindi (Opt-2)
+http://starshare.live:8080/live/arfat/arfat/205.m3u8
 #EXTINF:-1,Nick
 http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6504/index.m3u8
 #EXTINF:-1,Nickoloden
