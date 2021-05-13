@@ -140,7 +140,7 @@ http://103.153.175.254:8080/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-3)
 http://172.32.1.88:1935/tvprogram/ZEE-BANGLA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-1)
-http://stariptv.xyz:8880/661562/505844/111956
+http://master.beeiptv.com:8081/master/zeebangla/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-2)
 http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla SD (Opt-3)
