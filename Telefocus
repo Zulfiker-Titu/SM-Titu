@@ -132,7 +132,7 @@ http://stariptv.xyz:8880/661562/505844/95428
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-2)
 http://103.153.175.254:8080/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-3)
-https://1449.myindian.tv/edge/19531/index.m3u8?token=48.1.7850.5b6712e65ca2a3b59e7e003169e19752.1.2.2.965.0.0.9b67a2a8ca4fd2314fa5ca86d76502ed
+https://1449.myindian.tv/edge/19531/index.m3u8?token=48.1.7850.1cae7b545bccfa1b22b7d3a6c765e7ab.1.2.2.965.0.0.250228e8186a40b2a693ec0f42685a30
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-1)
 http://stariptv.xyz:8880/661562/505844/179256
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-2)
@@ -837,6 +837,8 @@ http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 http://103.153.175.254:8080/hls/stream3.m3u8
 #EXTINF:-1,OSN Star Movies HD
 http://stariptv.xyz:8880/661562/505844/113935
+#EXTINF:-1,Star World HD
+https://1445.myindian.tv/edge/19899/index.m3u8?token=48.1.7850.5b6712e65ca2a3b59e7e003169e19752.1.2.2.961.0.0.6da751bc3d9650ef42cc2a20644c839e
 #EXTINF:-1,Star TV 1000
 http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8
 #EXTINF:-1,HBO (Opt-1)
