@@ -596,25 +596,25 @@ https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,Sport TV HD 5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1,beIN Sports 1
-http://ponnoshare.ddns.net:25461/live/bangladesh/12345678/640.ts
+http://185.180.15.15:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 #EXTINF:-1,beIN Sports 2
-http://ponnoshare.ddns.net:25461/live/bangladesh/12345678/641.ts
+http://185.180.15.15:2200/EX/bein12hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 #EXTINF:-1,beIN Sports Extra
 https://bein-plutolive-vo.akamaized.net/playlist.m3u8
 #EXTINF:-1,beIN Sports HD 1
-http://atlasiptv.org:8080/mustafa/mustafa/526
+http://185.180.15.15:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 #EXTINF:-1,beIN Sports HD 2
-http://v1.oldboz44.com/beinsport2/index.m3u8
+http://185.180.15.15:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 #EXTINF:-1,beIN Sports HD 3
-http://v1.oldboz44.com/beinsport3/index.m3u8
+http://185.180.15.15:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 #EXTINF:-1,beIN Sports HD 4
-http://v1.oldboz44.com/beinsport4/index.m3u8
+http://185.180.15.15:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 #EXTINF:-1,beIN Sports HD 5
-http://atlasiptv.org:8080/mustafa/mustafa/530
+http://185.180.15.15:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 #EXTINF:-1,beIN Sports HD 6
-http://atlasiptv.org:8080/mustafa/mustafa/531
+http://185.180.15.15:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 #EXTINF:-1,beIN Sports HD 7
-http://atlasiptv.org:8080/mustafa/mustafa/532
+http://185.180.15.15:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 #EXTINF:-1,beIN Sports HD 8
 http://atlasiptv.org:8080/mustafa/mustafa/533
 #EXTINF:-1,beIN Sports HD 9
