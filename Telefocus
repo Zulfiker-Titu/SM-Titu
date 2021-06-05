@@ -42,7 +42,7 @@ http://209.126.120.153:80/hls/deeptotv.m3u8
 #EXTINF:-1 tvg-logo="https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg" group-title="Entertainment",Desh TV
 http://10.16.100.205/hls/des_tv_local480.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Children TV",Duronto TV
-http://ponnoshare.ddns.net:25461/live/bangladesh/12345678/645.ts
+https://ott.bingebd.com/live/ngrp:duronto_tv_all/manifest.mpd
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="News",Ekattor TV
 http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Entertainment",Eekushey TV
@@ -198,7 +198,7 @@ https://d276v0apjdxe7n.cloudfront.net:443/out/v1/94b12003316c4d6c9721a1508b0d1ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HKJrsz3/images.png" group-title="News",ETV Bharat English
 https://d2zmy2ox1qkejw.cloudfront.net:443/out/v1/770fb77abc5d4ef487fc8b8b38d60510/ETVB_CF_EN_NewsTime_1.m3u8
 #EXTINF:-1,Colors BD TV
-http://master.beeiptv.com:8081/master/colorsbdtv/playlist.m3u8
+http://master.beeiptv.com:8081/colors/colorsbdtv/chunks.m3u8
 #EXTINF:-1,Sristy TV
 http://tempe.jagobd.com:1932/iptv/sristytv.stream/chunks.m3u8
 #EXTINF:-1,Dhaka TV
