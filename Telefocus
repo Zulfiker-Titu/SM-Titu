@@ -861,46 +861,38 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6733/index.m3u8
 http://cv.khushitv.xyz/channels.php?c=zlivingusa&e=.m3u8
 #EXTINF:-1,Star Movies Select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
-#EXTINF:-1,Star Movies SD
-http://103.153.175.254:8080/hls/stream3.m3u8
-#EXTINF:-1,OSN Star Movies HD
-http://stariptv.xyz:8880/661562/505844/113935
+#EXTINF:-1,Star Movies HD
+http://185.180.15.17:2200/R-EX/FHD_STAR_MOVIES_-in/index.m3u8?token=RED_
 #EXTINF:-1,Star World HD
 https://1445.myindian.tv:443/edge/19899/index.m3u8?token=48.1.7850.5b6712e65ca2a3b59e7e003169e19752.1.2.2.961.0.0.72630af35963d42369ec35d848c4156c
 #EXTINF:-1,Star TV 1000
 http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8
 #EXTINF:-1,HBO (Opt-1)
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
+http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1,HBO (Opt-2)
-http://36.37.252.114:888/Apple/OneTV-030/playlist.m3u8
-#EXTINF:-1,HBO (Opt-3)
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/113.m3u8
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1,HBO Signature
-http://36.37.252.114:888/Apple/OneTV-032/playlist.m3u8
+http://www.tettv.diradjafm.com/m3u/HBOsig-TETtv.m3u8
 #EXTINF:-1,HBO Hits (Opt-1)
-https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
+http://www.tettv.diradjafm.com/m3u/HBOhits-TETtv.m3u8
 #EXTINF:-1,HBO Hits (Opt-2)
-http://36.37.252.114:888/Apple/OneTV-031/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1,HBO Family
 http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+#EXTINF:-1,HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1,Film
 http://178.159.14.234:8000/play/a02x
 #EXTINF:-1,A HBO
 http://89.106.234.4/amedia_hit_hd_34_35.m3u8
 #EXTINF:-1,Cinemax (Opt-1)
-http://36.37.252.114:888/Apple/OneTV-029/playlist.m3u8
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/111.m3u8
 #EXTINF:-1,Cinemax (Opt-2)
-http://202.57.43.60:8443/live/5748aabe4c9d661afbd7f4068248f664/111.m3u8
-#EXTINF:-1,Cinemax 1 HD
-http://136.243.177.164/CINEMAX/playlist.m3u8
-#EXTINF:-1,Cinemax 2 HD
-http://136.243.177.164/CINEMAX2/playlist.m3u8
-#EXTINF:-1,Cinema 1 HD
-http://185.132.177.110:8080/COSMOTECinema1HD/video.m3u8?token=test
-#EXTINF:-1,Cinema 2 HD
-http://185.132.177.110:8080/COSMOTECinema2HD/video.m3u8?token=test
-#EXTINF:-1,Sony Movies Action
-http://51.52.156.22:8888/http/009
+http://212.8.243.43:8880/99999/99999/7465
+#EXTINF:-1,Cinema
+https://sc.id-tv.kz/Cinema_34_35.m3u8
+#EXTINF:-1,Halow Movies HD
+http://halowtv.online:8080/HalowTV/FSyzHfEhvb/138
 #EXTINF:-1,Sony Movies
 http://209.222.101.100:25461/tv/tv/22917
 #EXTINF:-1,Hallmark Drama
@@ -910,11 +902,7 @@ http://209.222.101.100:25461/tv/tv/22890
 #EXTINF:-1,WB TV
 https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
 #EXTINF:-1,itv
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/71b5c8483161297.m3u8
-#EXTINF:-1,itv 2
-http://51.52.156.22:8888/http/005
-#EXTINF:-1,itv 3
-http://51.52.156.22:8888/http/006
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
 #EXTINF:-1,MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8
 #EXTINF:-1,MBC 2 HD
@@ -941,10 +929,8 @@ http://36.37.252.114:888/Apple/OneTV-075/playlist.m3u8
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1,Cinema World
 http://210.210.155.35/session/3e87cff6-7c80-11e8-9332-b82a72d63267/uq2663/h/h04/01.m3u8
-#EXTINF:-1,ROMEDY NOW
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
-#EXTINF:-1,Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1,Nostalgia Movies
+https://bozztv.com/36bay2/gusa-tvsNostalgiaMovies/index.m3u8
 #EXTINF:-1,Global Comedy
 https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
 #EXTINF:-1,MY Comedy
