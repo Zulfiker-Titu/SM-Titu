@@ -63,8 +63,6 @@ http://209.126.120.153:80/hls/tsports.m3u8
 http://10.16.100.207:8082/sports/sportst.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-4)
 http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8 
-#EXTINF:-1,FC (Live Sports)
-https://fancodealive1-a.akamaihd.net/8b1e2932f8c14aa2a6ae737b201179b5/ap-south-1/6008340455001/profile_2/hdntl=exp=1622278443~acl=%2f*~data=hdntl~hmac=a9e7b9e55c99e13a2a3c74a0ed038eecd291b8f2c1d8e5b2dfc8c9b23bb6dfe6/chunklist_dvr.m3u8?hdnea=st=1622192042~exp=9007200876933033~acl=/8b1e2932f8c14aa2a6ae737b201179b5/*/profile_1/chunklist_dvr.m3u8*~hmac=27e43f9ae7982c39454057ab07f207c2961bdf6bdfa7cc7a5ea72ced5d9d7ce9
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="News",Independent TV
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/JamunaTV_logo.jpg/250px-JamunaTV_logo.jpg" group-title="News",Jamuna TV
@@ -96,7 +94,7 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic HD Hindi
 http://84.17.41.7:80/Nat_Geo_Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD
-http://tv.dansk.live:8080/resell/nKTVSaaJ6f/28
+http://stream.amrbd.com:8082/Animal_Planet/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC
 http://tv.dansk.live:8080/resell/nKTVSaaJ6f/56
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9TvXKCG/travelxp-0-jpeg.png" group-title="Documentary",travel xp HD Hindi
