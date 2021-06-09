@@ -43,6 +43,7 @@ http://stream.amrbd.com:8082/Deepto-TV/tracks-v1a1/mono.m3u8
 http://10.16.100.205/hls/des_tv_local480.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/3/39/দুরন্ত_টিভি_লোগো.jpg/170px-দুরন্ত_টিভি_লোগো.jpg" group-title="Children TV",Duronto TV
 https://ott.bingebd.com/live/ngrp:duronto_tv_all/manifest.mpd
+#http://103.141.66.36/bpk-tv/10226/default/index.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-JIoq3KWxZX4/UxL19HMg4II/AAAAAAAAACM/o7mdvkL_jnk/s1600/Ekattor-tv-bangladesh.png" group-title="News",Ekattor TV
 http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="Entertainment",Eekushey TV
@@ -151,20 +152,8 @@ http://212.102.60.40:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/tracks-v1a1/mono.m3u
 http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sun-bangla-in.png" group-title="Entertainment",Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
-#EXTINF:-1,Enterr 10 Bangla
-http://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-1,R Plus Gold
-http://itvorigin.multitvsolution.com/idvo/rplusgold.m3u8
-#EXTINF:-1,Orange Bangla
-https://orangedigital.livebox.co.in:443/Orangebanglahls/Orangebangla.m3u8
-#EXTINF:-1,Khushboo Bangla
-https://itvorigin.multitvsolution.com/idvo/khushboo.m3u8
-#EXTINF:-1,Bongo Movies
-http://master.beeiptv.com:8081/master/duronto/playlist.m3u8
 #EXTINF:-1,DD Bangla
 https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
-#EXTINF:-1,News Time Bangla
-https://itvorigin.multitvsolution.com/idvo/newstimebangla.m3u8
 #EXTINF:-1,R Plus News
 https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
 #EXTINF:-1,Express News
@@ -197,6 +186,20 @@ https://d276v0apjdxe7n.cloudfront.net:443/out/v1/94b12003316c4d6c9721a1508b0d1ba
 https://d2zmy2ox1qkejw.cloudfront.net:443/out/v1/770fb77abc5d4ef487fc8b8b38d60510/ETVB_CF_EN_NewsTime_1.m3u8
 #EXTINF:-1,Colors BD TV
 http://master.beeiptv.com:8081/colors/colorsbdtv/chunks.m3u8
+#EXTINF:-1,Progoti TV
+http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
+#EXTINF:-1,TV Dhaka 24
+http://enaniptv.com/tvdhaka24live/1080/index.m3u8
+#EXTINF:-1,TV7
+http://103.112.53.62/flashtv/1080/index.m3u8
+#EXTINF:-1,Flash TV
+http://irbtv.net/flashtv/1081/index.m3u8
+#EXTINF:-1,RNN TV
+http://enaniptv.com/rnntv/1080/index.m3u8
+#EXTINF:-1,G Bangla TV
+https://iptv10.raytahost.com/desh/gbangla/index.m3u8
+#EXTINF:-1,Aamar Cinema
+http://d1bf3b042hkby5.cloudfront.net/AAMAR_CINEMA.m3u8
 #EXTINF:-1,Sristy TV
 http://tempe.jagobd.com:1932/iptv/sristytv.stream/chunks.m3u8
 #EXTINF:-1,DIGI Bangla TV
