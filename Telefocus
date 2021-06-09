@@ -878,16 +878,16 @@ http://www.tettv.diradjafm.com/m3u/HBOhits-TETtv.m3u8
 #EXTINF:-1,HBO Hits (Opt-2)
 http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
 #EXTINF:-1,HBO Family
-http://36.37.252.114:888/Apple/OneTV-033/playlist.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1,HGTV
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 #EXTINF:-1,Film
 http://178.159.14.234:8000/play/a02x
 #EXTINF:-1,A HBO
 http://89.106.234.4/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1,Cinemax (Opt-1)
+#EXTINF:-1,Cinemax (Red)
 http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/111.m3u8
-#EXTINF:-1,Cinemax (Opt-2)
+#EXTINF:-1,Cinemax (Yellow)
 http://212.8.243.43:8880/99999/99999/7465
 #EXTINF:-1,Cinema
 https://sc.id-tv.kz/Cinema_34_35.m3u8
