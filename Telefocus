@@ -315,6 +315,10 @@ http://72.139.72.18:1935/live/myStream/playlist.m3u8
 http://str24.l9574.com/510.stream/index.m3u8
 #EXTINF:-1,Magic TV
 http://103.108.145.94:1935/magicbangla/myStream/chunklist.m3u8
+#EXTINF:-1,Channel A
+http://irbtv.net:80/atv//1080/index.m3u8
+#EXTINF:-1,HTV
+http://enaniptv.com:80/Htv/1080/index.m3u8
 #EXTINF:-1,h tv
 https://htv-hls.telelivebd.com/htv/htv_manifest.m3u8
 #EXTINF:-1,Bangla 21 TV
