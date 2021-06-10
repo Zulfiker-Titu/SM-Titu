@@ -567,16 +567,12 @@ https://admdn1.cdn.mangomolo.com:443/adsports1/smil:adsports1.stream.smil/playli
 https://admdn5.cdn.mangomolo.com:443/adsports2/smil:adsports2.stream.smil/playlist.m3u8
 #EXTINF:-1,Abu Dhabi Sports 3
 https://admdn3.cdn.mangomolo.com:443/adsports3/smil:adsports3.stream.smil/playlist.m3u8
-#EXTINF:-1,Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 #EXTINF:-1,Dubai Sports 1
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-1,Dubai Sports 2
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1,Dubai Sports 3
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3
-#EXTINF:-1,Dubai Sports 4
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports4
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-1,Al Kass Sports 1
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
 #EXTINF:-1,Al Kass Sports 2
