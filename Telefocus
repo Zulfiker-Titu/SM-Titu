@@ -96,9 +96,9 @@ http://103.81.104.118:80/hls/stream9.m3u8
 #EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic HD Bangla
 http://103.81.104.118:80/hls/stream13.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD Hindi
-
+https://idvd.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC HD Hindi
-
+https://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9TvXKCG/travelxp-0-jpeg.png" group-title="Documentary",travel xp HD Bangla
 http://103.81.104.118:80/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Entertainment",Aakash Aath
@@ -163,6 +163,8 @@ https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 http://103.81.104.118:80/hls/stream26.m3u8
 #EXTINF:-1,DD Bangla
 https://d30uyb7igts9op.cloudfront.net/DD_BANGLA.m3u8
+#EXTINF:-1,News Time Bangla
+https://idvd.multitvsolution.com/idvo/newstimebangla.m3u8
 #EXTINF:-1,R Plus News
 https://cdn.smartstream.video/smartstream-us/rplus/rplus/playlist.m3u8
 #EXTINF:-1,Express News
@@ -365,10 +367,8 @@ https://d3pf2g6avq2sfr.cloudfront.net/DHOOM_MUSIC.m3u8
 https://d1v8sibg9qe8ke.cloudfront.net/BANGLA_TALKIES.m3u8
 #EXTINF:-1,Jonack
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1,Rengoni
-http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6632/index.m3u8
-#EXTINF:-1,Prag News
-http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6631/index.m3u8
+#EXTINF:-1,DD Assam
+https://idvd.multitvsolution.com/idvo/ddnortheast.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/Assam_Talks_logo.png" group-title="Assamese",Assam Talk
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.dy365.in/images/dy365.jpg" group-title="Assamese",dy365
@@ -389,6 +389,8 @@ https://cdn.smartstream.video/smartstream-us/alankartvmbr/alankartvmbr.smil/play
 https://cdn.smartstream.video/smartstream-us/tarangtvmbr/tarangtvmbr.smil/playlist.m3u8
 #EXTINF:-1,Tarang Music
 https://cdn.smartstream.video/smartstream-us/tarangmusicmbr/tarangmusicmbr.smil/playlist.m3u8
+#EXTINF:-1,DD Odia
+https://idvd.multitvsolution.com/idvo/ddodia.m3u8
 #EXTINF:-1,News 18 Odia
 https://news18odia-lh.akamaihd.net/i/n18odia_1@179753/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1,OTV 
@@ -427,7 +429,7 @@ http://103.81.104.118:80/hls/stream23.m3u8
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
 #EXTINF:-1,Rongeen TV Bangla
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/chunklist.m3u8
-#EXTINF:-1,minimimi
+#EXTINF:-1,MiniMini
 http://207.110.52.61:8080/s/hls/5/8668/minimini_258/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Cbeebies BBC
 http://51.52.156.22:8888/http/003
@@ -1252,7 +1254,7 @@ https://cdn6.mjunoon.tv:8087/web/8XM-131/live/131M/chunks.m3u8?nimblesessionid=1
 #EXTINF:-1,9x Jhakaas
 https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in.m3u8
 #EXTINF:-1,Enterr 10
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/37.m3u8
+https://idvd.multitvsolution.com/idvo/enter10.m3u8
 #EXTINF:-1,Alegeria TV
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8
 #EXTINF:-1,B4U Music
