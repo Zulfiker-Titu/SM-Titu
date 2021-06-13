@@ -1110,7 +1110,7 @@ http://live.streamjo.com:1935/sarastv/sarastv.m3u8
 #EXTINF:-1,NTV News HD
 http://139.59.35.138:80/ntvlivestream/hd-NtvNews-abrHD.stream/ntvliveorigin/ntvnews240.stream/dvr_v_p810_1536741.ts?nimblesessionid=823&wmsAuthSign=c2VydmVyX3RpbWU9My8yOS8yMDIxIDEyOjU1OjE4IFBNJmhhc2hfdmFsdWU9WGxUSFEvbnRWOWRqcUlDUE03eW1VZz09JnZhbGlkbWludXRlcz01JmlkPTE=
 #EXTINF:-1,atv
-http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
+https://live-01.tvjetapp.com/ch-14/live.m3u8
 #EXTINF:-1,TRT Kurdi
 https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT Avaz
@@ -1118,7 +1118,7 @@ http://tv-trtavaz.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,TRT 1
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1,Star TV
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
 #EXTINF:-1,Wion TV
 https://y5w8j4a9.ssl.hwcdn.net/wion/index.m3u8
 #EXTINF:-1,Love Nature
