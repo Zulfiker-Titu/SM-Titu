@@ -93,20 +93,20 @@ https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/sm/fox-life.jpg" group-title="Documentary",Fox Life
 https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery Channel
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic HD
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary",Discovery HD Bangla
+http://103.81.104.118:80/hls/stream9.m3u8
+#EXTINF:-1 tvg-logo="https://re-pal.com/wp-content/uploads/2019/10/NG_Logo-1140x450-800x316.jpg" group-title="Documentary",National Geographic HD Bangla
+http://103.81.104.118:80/hls/stream13.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/400/201907/animal-ka-planet.jpg" group-title="Documentary",Animal Planet HD Hindi
 http://idvd.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/400px-TLC_Logo.svg.png" group-title="Documentary",TLC HD Hindi
 http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9TvXKCG/travelxp-0-jpeg.png" group-title="Documentary",travel xp HD Hindi
-https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
+http://103.81.104.118:80/hls/stream37.m3u8
 #EXTINF:-1 tvg-logo="https://thesamikhsya.com/wp-content/uploads/2019/07/aakashath.jpg" group-title="Entertainment",Aakash Aath
-http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
+http://cdn.naturalbd.com:8083/AakashAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD (Opt-1)
-http://212.102.60.40:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=
+http://103.81.104.118:80/hls/stream28.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla HD (Opt-2)
 http://212.224.98.196:2200/R-EX/BENGALI_COLORS_BANGLA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/85/Colors_Bangla_Logo.jpg/120px-Colors_Bangla_Logo.jpg" group-title="Entertainment",Colors Bangla SD (Opt-1)
@@ -120,9 +120,9 @@ http://cdn.ihub.live:8080/RuposhiBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tsFmKQm/Ruposhi-Bangla-TV-jpeg.jpg" group-title="Entertainment",Ruposhi Bangla TV
 https://5fe9adb07250c.streamlock.net:443/demo/rup/manifest_w1128088793.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment",Sony Aath
-http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
+http://cdn.naturalbd.com:8083/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-1)
-http://212.102.60.40:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/tracks-v1a1/mono.m3u8?token=
+http://103.81.104.118:80/hls/stream31.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-2)
 http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha HD (Opt-3)
@@ -131,16 +131,14 @@ http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 http://209.126.120.153:80/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-2)
 http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-3)
-http://103.159.4.46:8080/STAR-JALSHA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-1)
-http://212.102.60.40:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/tracks-v1a1/mono.m3u8?token=
+http://103.81.104.118:80/hls/stream27.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-2)
 http://212.224.98.196:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-3)
 https://1449.myindian.tv/edge/19531/index.m3u8?token=48.1.7850.1cae7b545bccfa1b22b7d3a6c765e7ab.1.2.2.965.0.0.250228e8186a40b2a693ec0f42685a30
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-1)
-http://212.102.60.40:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/tracks-v1a1/mono.m3u8?token=
+http://103.81.104.118:80/hls/stream30.m3u8
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-2)
 http://212.224.98.196:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
 #EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="Entertainment",Zee Bangla HD (Opt-3)
@@ -156,7 +154,7 @@ http://cdn.ihub.live:8080/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-1)
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-2)
-http://212.102.60.40:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/tracks-v1a1/mono.m3u8?token=
+http://103.81.104.118:80/hls/stream23.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-3)
 http://cv.khushitv.xyz/channels.php?c=zbanglacnm&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-4)
