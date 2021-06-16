@@ -154,7 +154,7 @@ http://cdn.ihub.live:8080/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-1)
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-2)
-http://103.81.104.118:80/hls/stream23.m3u8
+http://212.102.60.40:2200/R-EX/BENGALI_ZEE_BANGLA_CINEMA-in/tracks-v1a1/mono.m3u8?token=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-3)
 http://cv.khushitv.xyz/channels.php?c=zbanglacnm&e=.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K4FvMd/Zee-Bangla-Cinema-Logo.jpg" group-title="Entertainment",Zee Bangla Cinema (Opt-4)
@@ -427,7 +427,7 @@ http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6503/index.m3u8
 http://starshare.live:8080/live/arfat/arfat/10887.m3u8
 #EXTINF:-1,Disney Junior
 http://redlabmcdn.s.llnwi.net/jp01/bs13/index.m3u8
-#EXTINF:-1,Nick Bangla
+#EXTINF:-1,Nick Bangla/Hindi
 http://103.81.104.118:80/hls/stream23.m3u8
 #EXTINF:-1,Sony Yay Bangla
 https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
@@ -491,8 +491,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=61&live=1&app_b
 http://nn1.joj.sk/hls/rik-540.m3u8
 #EXTINF:-1,Rotana Kids
 https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
-#EXTINF:-1,Sonic Bangla
-http://topiptv.net:5890/abcd/123456/68719
 #EXTINF:-1,Sony Ten 1 (Opt-1)
 http://209.126.120.153:80/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-2)
