@@ -8,7 +8,7 @@ https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/240px-ATN_Bangla.svg.png" group-title="Entertainment",ATN Bangla UK
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/ATN_News_Logo_3.GIF/120px-ATN_News_Logo_3.GIF" group-title="News",ATN News
-http://ipm.oncast.me:1932/iplived/app-atnws-sg.stream/chunks.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/atnws-sg.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Bangla_Tv_Logo.jpg/220px-Bangla_Tv_Logo.jpg" group-title="Entertainment",Bangla TV
 https://tempsignature.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Banglavision.PNG" group-title="Entertainment",Banglavision
@@ -186,7 +186,7 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/67/News18_Bangla_logo.jpeg/200px-News18_Bangla_logo.jpeg" group-title="News",News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1 tvg-logo="https://bengali.cdn.zeenews.com/bengali/desktop/logo/Zee-24Ghanta_Mob_career.png" group-title="News",Zee 24 Ghanta
-http://cv.khushitv.xyz/channels.php?c=24ghanta&e=.m3u8
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6639/index.m3u8
 #EXTINF:-1,TV9 Bangla
 https://vidcdn.vidgyor.com/tv9bangla-origin/live/playlist.m3u8
 #EXTINF:-1,Akhon Kolkata
@@ -197,7 +197,7 @@ http://tv24bangla.logosys.in:8080/hls/tv24bangla.m3u8
 https://etvbharatlive9.akamaized.net:443/hls/live/710675/westBengal/index_540p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HKJrsz3/images.png" group-title="News",ETV Bharat Assam
 https://etvbharatlive8.akamaized.net:443/hls/live/710674/assam/index_540p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HKJrsz3/images.png" group-title="News",ETV Bharat Odisha
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HKJrsz3/images.png" group-title="News",ETV Bharat Odisa
 https://etvbharatlive.akamaized.net:443/hls/live/707618/odisha/index_540p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/HKJrsz3/images.png" group-title="News",ETV Bharat Delhi
 https://d276v0apjdxe7n.cloudfront.net:443/out/v1/94b12003316c4d6c9721a1508b0d1bac/ETVB_CF_DL_NewsTime_1.m3u8
