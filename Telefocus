@@ -389,6 +389,8 @@ https://cdn.smartstream.video/smartstream-us/tarangtvmbr/tarangtvmbr.smil/playli
 https://cdn.smartstream.video/smartstream-us/tarangmusicmbr/tarangmusicmbr.smil/playlist.m3u8
 #EXTINF:-1,DD Odia
 http://idvd.multitvsolution.com/idvo/ddodia.m3u8
+#EXTINF:-1,Prameya News 7
+https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
 #EXTINF:-1,News 18 Odia
 https://news18odia-lh.akamaihd.net/i/n18odia_1@179753/index_4_av-p.m3u8?sd=10&rebase=on&hdntl=~acl=%2f*~data=hdntl~hmac=665cdf608d16e4dc095fa701b5943e475579f4817210c76179d4a731bb8e62f2
 #EXTINF:-1,Zee Odia
@@ -565,6 +567,10 @@ http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
 #EXTINF:-1,Astro Super Sport 4
 http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
+#EXTINF:-1,RMC SPORT 1
+https://22live00.akamaized.net/RMC_Sports_1/index.m3u8
+#EXTINF:-1,RMC SPORT 2
+https://22live00.akamaized.net/RMC_Sports_2/index.m3u8
 #EXTINF:-1,Motorvision
 http://27.254.142.14/motorvision.m3u8
 #EXTINF:-1,Ten Cricket
@@ -585,26 +591,8 @@ https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1,Dubai Sports 3
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-#EXTINF:-1,Al Kass Sports 1
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
-#EXTINF:-1,Al Kass Sports 2
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
-#EXTINF:-1,Al Kass Sports 3
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
-#EXTINF:-1,Al Kass Sports 4
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
-#EXTINF:-1,Al Kass Sports 5
-http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
-#EXTINF:-1,PTV Sports (Opt-1)
-https://32x2cn7zz29m47vnqt4z-kyz6hw.p5cdn.com/abr_PSLME/zxcv/PSLME/zxcv_720p/chunks.m3u8
-#EXTINF:-1,PTV Sports (Opt-2)
-http://42.201.228.226:8678/PTVSPORT_NOC_MOMILE/mono.m3u8
-#EXTINF:-1,PTV Sports (Opt-3)
-http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Geo Super
-http://208.115.215.42/Geo_Super_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Willow HD
-http://topiptv.net:5890/abcd/123456/68557
+#EXTINF:-1,Bahrain Sports
+http://185.105.4.106:1935/live/Bahrain%20Sports/master.m3u8
 #EXTINF:-1,F+
 http://136.243.177.164/FPLUS/index.m3u8
 #EXTINF:-1,Look Sports + HD
@@ -623,8 +611,10 @@ https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 http://185.180.15.15:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 #EXTINF:-1,beIN Sports 2
 http://185.180.15.15:2200/EX/bein12hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
+#EXTINF:-1,beIN Sport Extra (eng)
+https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1,beIN Sports Extra
-https://bein-plutolive-vo.akamaized.net/playlist.m3u8
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1,beIN Sports HD 1
 http://185.180.15.15:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
 #EXTINF:-1,beIN Sports HD 2
@@ -671,10 +661,8 @@ http://93.157.62.180/Supersport3/index.m3u8
 http://93.157.62.180/Supersport4/index.m3u8
 #EXTINF:-1,Supersport 5
 http://93.157.62.180/Supersport5/index.m3u8
-#EXTINF:-1,Supersport 6
+#EXTINF:-1,S Variety 1
 http://93.157.62.180/Supersport6/index.m3u8
-#EXTINF:-1,Supersport 7
-http://93.157.62.180/Supersport7/index.m3u8
 #EXTINF:-1,MBC Action HD
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
 #EXTINF:-1,TVRI SPORT HD
@@ -684,17 +672,21 @@ http://fcblive-a.akamaized.net/dc-1/live/hls/p/2090621/e/1_ts6d5c4t/sd/6000/t/wP
 #EXTINF:-1,FC Bayern TV
 http://p.dtv.sx:80/live/visiontv/775142/20767.ts
 #EXTINF:-1,True Premier Football HD 1
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1,True Premier Football HD 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1,True Premier Football HD 3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1,BT Sports 1 HD
-https://www.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1,BT Sports 2 HD
-https://www.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1,BT Sports 3 HD
-http://160.119.77.116:8081/iptv/uk-btsport3hd.stream/playlist.m3u8
+http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
+#EXTINF:-1,Edge Sport
+https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Eurosports 1
+http://91.126.141.201:1935/live/smil:eurosport1nntv.smil/playlist.m3u8
 #EXTINF:-1,rm tv
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_0700_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1,Dsport
@@ -709,24 +701,12 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1,All Sports TV
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
-#EXTINF:-1,Eurosports 1
-http://rahatbirakbizi.cf/hls/94.m3u8
-#EXTINF:-1,Eurosports 2
-http://46.174.189.50:8082/Eurosport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Digi Sports 1 HD
-http://d-e-02.cdn.rdsnet.ro/DVR/digisport1hdb.stream/playlit.m3u8
-#EXTINF:-1,Digi Sports 2 HD
-http://d-e-02.cdn.rdsnet.ro/DVR/digisport2hdb.stream/playlit.m3u8
-#EXTINF:-1,BTV 2
-http://live.btv2020.com:1935/live/btv2/playlist.m3u8
+#EXTINF:-1,Sports 1
+http://iptv.prosto.tv:7000/ch114/video.m3u8
+#EXTINF:-1,TRT Spor
+http://6.oldbozcdn1.cc/nirvana1/index.m3u8
 #EXTINF:-1,S Sports TV
 https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b2064000.m3u8
-#EXTINF:-1,MS Motor TV
-https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/chunklist.m3u8
-#EXTINF:-1,Fight Box HD
-http://84.22.33.210/FIGHTBOX/index.m3u8
-#EXTINF:-1,Fight Time
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
 #EXTINF:-1,FIGHT Sports
 http://210.210.155.35/uq2663/h/h05/index.m3u8
 #EXTINF:-1,Sports TV
@@ -754,11 +734,9 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u
 #EXTINF:-1,Fox Sports 1
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1,Fox Sports 2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1,Fox Sports 3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1,Fox Sports 503 HD
-http://45.249.9.21:8000/play/a06t/index.m3u8
+https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
 #EXTINF:-1,Premier Club HD
 http://nodemaster.homelinux.com/PREMIERECLUBES-HD/mpegts?token=cOAOwU8SC2
 #EXTINF:-1,TRING SPORT 2 SD
@@ -780,7 +758,7 @@ http://84.47.174.140/hlsl/2/BBC_World/BBC_World.m3u8
 #EXTINF:-1,BBC World News (Opt-03)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1,CNN International
-http://203.162.235.41:16918
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1,CNA World
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8?@amarnettv.live
 #EXTINF:-1,ABC News (Opt-1)
@@ -1075,6 +1053,8 @@ http://208.115.215.42/Star_Plus_HD_UK/tracks-v1a1/mono.m3u8
 http://212.224.98.196:2200/R-EX/HINDI_STAR_GOLD_HD-in/index.m3u8?token=
 #EXTINF:-1,Star Gold HD (Opt-2)
 http://208.115.215.42:80/Star_G0ld_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Gold 2
+http://103.153.39.34:8000/play/a06p/index.m3u8
 #EXTINF:-1,Star Bharat HD
 http://212.224.98.196:2200/R-EX/HINDI_STAR_BHARAT_HD-in/index.m3u8?token=
 #EXTINF:-1,Dabang TV
@@ -1099,6 +1079,8 @@ https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in.m3u8
 https://voot.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
 #EXTINF:-1,DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1,NTV HD (Nepal)
+http://103.130.207.54/livetest/NTVHD360p.stream/chunks.m3u8
 #EXTINF:-1,atv
 https://live-01.tvjetapp.com/ch-14/live.m3u8
 #EXTINF:-1,TRT Kurdi
@@ -1299,10 +1281,12 @@ http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1,MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1,MTV Hits
-http://62.210.127.217:8080/KLp1VrQ0Ig/9UE8tQL5Wf/28661?play_token=dL6k4mXLU9&token=QhVcUhcJRggXAgJRAQQHAlcGVwQAUwVUBFJRVwJUVVABD1ZRUwAAAgJGGURBEkJRAFtpWgVEXlFdUgJZSkAXElxFa1oAQ14QBFcFVgFTEhhDQl9eBEReUlBdA1FQWlBWABsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
+#EXTINF:-1,MTV Hits 
+http://188.40.68.167/russia/mtv_hits/playlist.m3u8
+#EXTINF:-1,Maori Television
+https://ch.iptvmate.net/130cf26d20f95e64214ea5dc946fcd1f.m3u8
 #EXTINF:-1,MTV India
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/75.ts
+http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6582/index.m3u8
 #EXTINF:-1,Prime Plus HD
 http://23.186.192.55:8080/live/primeplus/index.m3u8
 #EXTINF:-1,CMC TV
