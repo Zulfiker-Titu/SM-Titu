@@ -607,28 +607,28 @@ https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
 https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1,Sport TV HD 5
 https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1,beIN Sports 1
-http://185.180.15.15:2200/EX/bein11hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:-1,beIN Sports 2
-http://185.180.15.15:2200/EX/bein12hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
+#EXTINF:-1,beIN Sports 1 (eng)
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
+#EXTINF:-1,beIN Sports 2 (eng)
+https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1,beIN Sport Extra (eng)
 https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
 #EXTINF:-1,beIN Sports Extra
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
-#EXTINF:-1,beIN Sports HD 1
-http://185.180.15.15:2200/EX/bein1hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:-1,beIN Sports HD 2
-http://185.180.15.15:2200/EX/bein2hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:-1,beIN Sports HD 3
-http://185.180.15.15:2200/EX/bein3hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:-1,beIN Sports HD 4
-http://185.180.15.15:2200/EX/bein4hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:-1,beIN Sports HD 5
-http://185.180.15.15:2200/EX/bein5hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:-1,beIN Sports HD 6
-http://185.180.15.15:2200/EX/bein6hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
-#EXTINF:-1,beIN Sports HD 7
-http://185.180.15.15:2200/EX/bein7hd-ar/tracks-v1a1/mono.m3u8?token=RED_qLtbE2uetYblp57I2zLiDw==,1622828752.3742543580
+#EXTINF:-1,beIN Sports 1
+http://1.alhawalouh.xyz/live/6161655/index.m3u8
+#EXTINF:-1,beIN Sports 2
+http://1.alhawalouh.xyz/live/69854211/index.m3u8
+#EXTINF:-1,beIN Sports 3
+http://1.alhawalouh.xyz/live/6151278887/index.m3u8
+#EXTINF:-1,beIN Sports 4
+http://1.alhawalouh.xyz/live/9787488847/index.m3u8
+#EXTINF:-1,beIN Sports 5
+http://1.alhawalouh.xyz/live/610303030/index.m3u8
+#EXTINF:-1,beIN Sports 6
+http://1.alhawalouh.xyz/live/1515000000/index.m3u8
+#EXTINF:-1,beIN Sports 7
+http://1.alhawalouh.xyz/live/791001144/index.m3u8
 #EXTINF:-1,beIN Sports HD 8
 http://atlasiptv.org:8080/mustafa/mustafa/533
 #EXTINF:-1,beIN Sports HD 9
