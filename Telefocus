@@ -63,7 +63,7 @@ http://jupiter.bdcabletv.com:80/Gazi_SP/video.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-1)
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-2)
-http://103.213.238.70:80/TSportsHD/tracks-v1a1/mono.m3u8
+http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-3)
 http://209.126.120.91:80/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-4)
@@ -490,14 +490,12 @@ https://hiplayer.hibridcdn.net/t/rotana-kids.m3u8
 http://209.126.120.91:80/hls/ten1.m3u8
 #EXTINF:-1,Sony Ten 1 (Opt-2)
 http://89.41.180.253:8080/INDIA_SPORTS/TEN_1_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Sony Ten 1 (Opt-3)
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
 #EXTINF:-1,Sony Ten 2 (Opt-1)
 http://209.126.120.91:80/hls/ten2.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-2)
 http://89.41.180.253:8080/INDIA_SPORTS/TEN_2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony Ten 2 (Opt-3)
-http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
+http://175.41.46.16:8081/hls/2.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-1)
 http://209.126.120.91:80/hls/ten3.m3u8
 #EXTINF:-1,Sony Ten 3 (Opt-2)
@@ -509,23 +507,29 @@ http://209.126.120.91:80/hls/sonysix.m3u8
 #EXTINF:-1,Sony SIX (Opt-2)
 http://89.41.180.253:8080/INDIA_SPORTS/SONY_SIX_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Sony SIX (Opt-3)
-https://streamer-1.toffeelive.com/mobile_hls/sony_six_hd/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
+http://175.41.46.16:8081/hls/1.m3u8
+#EXTINF:-1,Star Sports 1 HD (Opt-1)
+http://103.81.104.118:80/hls/stream15.m3u8
+#EXTINF:-1,Star Sports 1 HD (Opt-2)
+http://175.41.46.16:8081/hls/3.m3u8
+#EXTINF:-1,Star Sports 1 SD
+http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 1 HD Hindi
 http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_1_HINDI_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Sports 2 HD
+#EXTINF:-1,Star Sports 2 HD (Opt-1)
+http://103.81.104.118:80/hls/stream16.m3u8
+#EXTINF:-1,Star Sports 2 HD (Opt-2)
 http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_2_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 3
 http://103.109.56.116:80/live/skyfeed1022/index.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-1)
-http://10.16.100.207:8082/sports/starsports_select1.m3u8
+http://103.81.104.118:80/hls/stream12.m3u8
 #EXTINF:-1,Star Sports Select 1 (Opt-2)
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_1_HD-in/index.m3u8?token=
-#EXTINF:-1,Star Sports Select 1 (Opt-3)
-http://stariptv.xyz:8880/661562/505844/179344
-#EXTINF:-1,Star Sports Select 2 (Opt-1)
-http://212.224.98.196:2200/R-EX/SPORTS_STAR_SPORTS_SELECT_2_HD-in/index.m3u8?token=
-#EXTINF:-1,Star Sports Select 2 (Opt-2)
-http://stariptv.xyz:8880/661562/505844/179341
+http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_SELECT_1_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Star Sports Select 2
+http://89.41.180.253:8080/INDIA_SPORTS/STAR_SPORTS_SELECT_2_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ten Cricket
+http://103.81.104.118:80/hls/stream34.m3u8
 #EXTINF:-1,Sky Sports Football HD
 http://stream.tvtap.live:8081/live/skysports-football.stream/chunks.m3u8
 #EXTINF:-1,Sky Sports Cricket HD
