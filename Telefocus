@@ -65,7 +65,7 @@ http://175.41.46.16:8081/hls/4.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-3)
 http://209.126.120.91:80/hls/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-4)
-http://10.16.100.207:8082/sports/sportst.m3u8
+http://103.106.243.163:8181//17/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rj48vSx/download.png" group-title="Sports",T Sports HD (Opt-5)
 http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8 
 #EXTINF:-1 tvg-logo="https://www.assignmentpoint.com/wp-content/uploads/2016/04/independent-television.jpg" group-title="News",Independent TV
@@ -87,7 +87,7 @@ http://103.213.238.70:80/NagorikTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg" group-title="News",News 24
 http://iptvbd.jagobd.com:1931/boishakhi/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="Entertainment",RTV
-http://iptvbd.jagobd.com:1931/boishakhi/rtv-sg.stream/chunks.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/SA_TV_Logo.png" group-title="Entertainment",SA TV
 http://iptvbd.jagobd.com:1931/boishakhi/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/সময়_টিভির_লোগো.svg/360px-সময়_টিভির_লোগো.svg.png" group-title="News",Somoy TV
@@ -133,6 +133,8 @@ http://209.126.120.91:80/hls/chsj.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-2)
 http://103.213.238.70:80/j-star-jalsha/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-3)
+http://103.106.243.163:8181//19/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Star_Jalsha_logo.jpg/220px-Star_Jalsha_logo.jpg" group-title="Entertainment",Star Jalsha SD (Opt-4)
 http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png" group-title="Bangla Movies",Jalsha Movies HD (Opt-1)
 http://103.81.104.118:80/hls/stream27.m3u8
